@@ -3,12 +3,14 @@ import { useTranslation } from 'react-i18next';
 import { Mail, Phone, Clock, MapPin, Instagram, Facebook, Building2, FileText } from 'lucide-react';
 import ContactForm from '../components/ContactForm';
 import FAQ from '../components/FAQ';
+import SEOHead from '../components/SEOHead';
 
 const Kontakt = () => {
   const { t } = useTranslation();
 
   return (
     <div className="min-h-screen bg-[var(--color-bg)]">
+      <SEOHead pageKey="contact" />
       {/* Hero Section */}
       <section className="relative pt-24 pb-16 lg:pt-32 lg:pb-24 overflow-hidden min-h-[70vh] flex items-center">
         {/* Background Image */}

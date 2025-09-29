@@ -2,20 +2,44 @@
 <html lang="cs">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+
+    <!-- Viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Fallback title (SEOHead ho na stránkách přepíše) -->
     <title>Berry Food - Kuchyně vymazlená obyčejnou poctivostí</title>
+
+    <!-- Favicons & manifest -->
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     
+    <!-- pinned tab pro Safari -->
+    <link rel="mask-icon" href="/favicon.svg" color="#3A2A1E" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- Barvy pro prohlížeč / OS UI -->
+    <meta name="theme-color" content="#3A2A1E" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="#3A2A1E">
+    <meta name="color-scheme" content="light only" />
+
+    <!-- Lepší chování na mobilech -->
+    <meta name="format-detection" content="telephone=no" />
+
     <!-- GA4: Measurement ID bude vložen zde, ale nespouští se bez souhlasu -->
     <!-- TODO: Nahradit G-XXXXXXX skutečným GA4 measurement ID -->
-    
+
     <!-- Meta Pixel: Připraveno pro budoucí implementaci -->
     <!-- TODO: Nahradit XXXXXXXXX skutečným Meta Pixel ID -->
-    
+
     <!-- Google Fonts with preconnect for performance -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    >
   </head>
   <body>
     <div id="root"></div>
