@@ -1,0 +1,606 @@
+{
+  "hero": {
+    "title": "Kitchen perfected",
+    "subtitle": "by simple honesty",
+    "cards": {
+      "catering": {
+        "title": "CATERING",
+        "description": "Professional catering services for weddings, corporate events and celebrations"
+      },
+      "rozvoz": {
+        "title": "DELIVERY",
+        "description": "Fast delivery of fresh lunches directly to your company"
+      },
+      "bistra": {
+        "title": "BISTROS",
+        "description": "Visit our cozy bistros with homemade cuisine"
+      },
+      "budex": {
+        "title": "BISTRO BUDEX",
+        "description": "Planá 67, České Budějovice"
+      },
+      "plynarna": {
+        "title": "BISTRO PLYNÁRNA",
+        "description": "Vrbenská 2/2b, Č. Budějovice"
+      }
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "catering": "Catering",
+    "weddings": "Wedding catering",
+    "corporate": "Corporate catering",
+    "delivery": "Food delivery",
+    "bistros": "Bistros",
+    "budex": "Bistro BUDEX",
+    "plynarna": "Bistro Plynárna",
+    "locations": "Where to taste us",
+    "menu": "Menu",
+    "contact": "Contact"
+  },
+  "cta": {
+    "contact": "Contact",
+    "orderDelivery": "Order delivery",
+    "viewMenu": "View menu",
+    "requestCatering": "Request quote",
+    "requestWeddingCatering": "Wedding catering quote",
+    "requestCorporateCatering": "Corporate catering quote",
+    "reserveTable": "Reserve table",
+    "visitWebsite": "Visit website"
+  },
+  "pages": {
+    "home": {
+      "title": "Berry Food - Kitchen perfected by simple honesty",
+      "description": "Professional catering, food delivery and cozy bistros in České Budějovice. Fresh food from quality ingredients every day."
+    },
+    "bistroPlynarna": {
+      "title": "Bistro Plynárna - Berry Food",
+      "description": "Bistro Plynárna on Vrbenská street in České Budějovice. Homemade lunches, breakfasts and desserts in former gas plant premises.",
+      "hero": {
+        "title": "BISTRO PLYNÁRNA",
+        "subtitle": "We are a lunch restaurant in the premises of a former gas plant on Vrbenská street. We prepare lunches for everyone who wants honest homemade food as a daily standard. We also offer canteen products in the form of hearty breakfasts and snacks.",
+        "cta": "View menu"
+      },
+      "sections": {
+        "whyChooseUs": "WHY CHOOSE",
+        "whyChooseUsHighlight": "BISTRO PLYNÁRNA?",
+        "ourLunches": "OUR LUNCHES",
+        "breakfast": "BREAKFAST"
+      },
+      "features": {
+        "honestLunches": "HONEST LUNCHES",
+        "honestLunchesDesc": "Every weekday from fresh ingredients without compromising on quality.",
+        "homemadeDesserts": "HOMEMADE DESSERTS",
+        "homemadeDessertsDesc": "Our own lemonades and something sweet and savory with coffee.",
+        "friendlyBistro": "FRIENDLY BISTRO",
+        "friendlyBistroDesc": "For a quick lunch or a more relaxed break in a pleasant environment."
+      },
+      "lunchDescription": "Kitchen operation corresponds with the priority of fresh ingredients and originality. We offer several food variants that are composed to satisfy the widest possible lunch demand.",
+      "lunchTypes": {
+        "quickMeals": "QUICK MEALS",
+        "quickMealsDesc": "Fast and tasty dishes",
+        "lightLunches": "LIGHT LUNCHES",
+        "lightLunchesDesc": "For a healthy lifestyle",
+        "specialties": "SPECIALTIES",
+        "specialtiesDesc": "International and Czech classics",
+        "desserts": "DESSERTS",
+        "dessertsDesc": "Our own lemonades and sweets"
+      },
+      "dailyMenu": "Our daily menu consists of 3-4 dishes and soup. We delight sweet lovers with, for example, buns with custard or homemade fruit dumplings. Thanks to our chef, you can also look forward to special occasions like celebrating St. Martin's Day with roasted goose.",
+      "breakfastDescription": "Morning makes the day, so you can come and make it more pleasant with a proper breakfast! Whether you're a fan of sweet or savory taste, morning hunger can no longer catch you off guard.",
+      "breakfastItems": {
+        "freshPastry": "FRESH PASTRY",
+        "sandwiches": "SANDWICHES",
+        "eggs": "EGGS YOUR WAY",
+        "cakes": "YEAST CAKES",
+        "desserts": "DESSERTS IN GLASS",
+        "croissants": "CROISSANTS"
+      }
+    },
+    "catering": {
+      "title": "Catering - Berry Food",
+      "description": "Professional catering services for weddings, corporate events and social occasions. Quality food from fresh ingredients.",
+      "hero": {
+        "title": "CATERING",
+        "subtitle": "Honest catering tailored to your needs – weddings, corporate events, celebrations. Always from quality, seasonal ingredients."
+      },
+      "sections": {
+        "specialization": "WHAT WE SPECIALIZE IN",
+        "howWeWork": "HOW WE WORK",
+        "finalCta": "READY TO CREATE AN UNFORGETTABLE EXPERIENCE?",
+        "finalCtaSubtitle": "Contact us for a non-binding consultation and together we'll create catering tailored to your vision"
+      }
+    },
+    "weddingCatering": {
+      "title": "Wedding catering - Berry Food",
+      "description": "Wedding catering with emphasis on uniqueness and personal approach. We'll create an unforgettable gastronomic experience for your most beautiful day.",
+      "hero": {
+        "title": "WEDDING CATERING",
+        "subtitle": "Every detail matters at a wedding – and food is one of the most important."
+      },
+      "intro": {
+        "highlight": "We prepare delicacies that make taste buds dance with joy.",
+        "text1": "We don't cheat with ingredients, we don't replace food with artificial flavorings. With us, you know what you're eating and you still enjoy how beautifully it looks.",
+        "text2": "We believe that beauty lies in simplicity and quality of flavors. And if you have sensitive digestion and need all those delicacies a bit lighter, we're ready to accommodate you as much as possible, so everyone can truly enjoy our food!"
+      },
+      "sections": {
+        "whyChooseUs": "WHY CHOOSE US",
+        "whatToExpect": "WHAT TO EXPECT",
+        "howWeWork": "HOW WE WORK",
+        "finalCta": "READY FOR YOUR DREAM WEDDING MENU?",
+        "finalCtaSubtitle": "Contact us for a non-binding consultation and together we'll create catering for your most beautiful day"
+      },
+      "features": {
+        "completeService": "COMPLETE SERVICE",
+        "individualApproach": "INDIVIDUAL APPROACH",
+        "professionalStaff": "PROFESSIONAL STAFF",
+        "eleganceStyle": "ELEGANCE & STYLE"
+      }
+    },
+    "corporateCatering": {
+      "title": "Corporate catering - Berry Food",
+      "description": "Professional catering for corporate events, conferences and team building. Quality food that will support the success of your event.",
+      "hero": {
+        "title": "CORPORATE CATERING",
+        "subtitle": "Professional catering for corporate events that will support the success of your event."
+      },
+      "intro": {
+        "highlight": "Excellent catering is not just about perfect flavor harmony.",
+        "text1": "It should reflect the occasion for which it's served and fit into the overall atmosphere of the specific event. Whether you're interested in decorated haute cuisine dishes, or you like the relaxed traditional atmosphere of roast pork, we'll always fulfill your ideas of perfect hospitality.",
+        "text2": "Our goal is to prepare an \"art exhibition\" of delicacies that meet your requirements and add something extra.",
+        "text3": "We have experience preparing catering for events of various characters. Whatever the occasion, we always try to be original and draw from qualities that are irreplaceable for us. Haute cuisine, creativity, real flavors derived from basic ingredients.",
+        "text4": "The precision of served dishes or prepared buffet is always derived from the story behind individual ingredients. That's why we emphasize local sourcing and of course using seasonal foods. Because only real food can be a luxury experience."
+      },
+      "sections": {
+        "occasions": "OCCASIONS",
+        "foodTypes": "FOOD TYPES",
+        "howWeWork": "HOW WE WORK",
+        "finalCta": "READY TO CREATE A TAILORED CORPORATE EVENT?",
+        "finalCtaSubtitle": "Contact us for a non-binding consultation and together we'll create catering for your corporate event"
+      },
+      "occasions": {
+        "conferences": "CONFERENCES",
+        "corporateParties": "CORPORATE PARTIES",
+        "openDay": "OPEN HOUSE",
+        "teambuilding": "TEAM BUILDING"
+      }
+    },
+    "menu": {
+      "title": "Menu - Berry Food",
+      "description": "Current menu with freshly prepared dishes. Daily menu from quality ingredients.",
+      "hero": {
+        "title": "MENU",
+        "subtitle": "Freshly prepared dishes every day"
+      },
+      "refresh": "Refresh",
+      "notUploaded": "Daily menu has not been uploaded yet.",
+      "allergensNote": "List of allergens can be found",
+      "allergensLink": "HERE"
+    },
+    "delivery": {
+      "title": "Food delivery - Berry Food",
+      "description": "Delivery of fresh lunches directly to your company. Quality food without courier commission.",
+      "hero": {
+        "title": "WE PROVIDE DAILY CATERING",
+        "subtitle": "FOR EMPLOYEES DIRECTLY TO THE COMPANY"
+      },
+      "sections": {
+        "whyDelivery": "DO YOU WANT TO TREAT YOUR TEAM",
+        "whyDeliverySubtitle": "TO QUALITY LUNCH AT A REASONABLE PRICE?",
+        "howItWorks": "HOW DOES IT ALL WORK?",
+        "noCommission": "NO COURIER COMMISSION",
+        "noCommissionSubtitle": "With us, you pay fairly only for lunch + flat packaging fee of 10 CZK."
+      },
+      "content": {
+        "text1": "You don't have to worry about anything extra, just choose what you fancy.",
+        "text2": "Every day we deliver hot lunches in disposable boxes, or large thermo portions intended for self-service."
+      },
+      "steps": {
+        "step1": "Lunch can be easily ordered in our system HERE",
+        "step1Link": "HERE",
+        "step2": "You choose from the menu and click the ORDER button.",
+        "step2Highlight": "ORDER",
+        "step3": "Enter email.",
+        "step4": "Complete registration and fill in delivery address.",
+        "step5": "Then enter your name, password, phone and click CREATE ACCOUNT.",
+        "step5Highlight": "CREATE ACCOUNT",
+        "step6": "You have ordered and created an account."
+      },
+      "features": {
+        "invoicePayment": "Invoice payment",
+        "priceVisibility": "Price visibility division into subsidized and paid part",
+        "roleAssignment": "Role and competence assignment to your diners in the ordering system",
+        "physicalTerminal": "In addition to the web interface of the ordering system, we offer installation of a physical ordering and dispensing terminal directly in your company"
+      }
+    },
+    "locations": {
+      "title": "Where to taste us - Berry Food",
+      "description": "Summer resorts and places where you can taste our catering. Stodola Plástovice, Aloha Bar, Střížovický dvůr and more.",
+      "hero": {
+        "title": "WHERE CAN YOU TASTE",
+        "subtitle": "OUR CATERING?",
+        "description": "During the summer season, we focus on weddings and social events. In addition to events you can arrange with us, we prepare catering in these summer resorts:"
+      }
+    },
+    "contact": {
+      "title": "Contact - Berry Food",
+      "description": "Contact information for Berry Food. Bistro BUDEX, Bistro Plynárna, billing information and contact form.",
+      "hero": {
+        "title": "CONTACT US",
+        "subtitle": "We're happy to answer your questions and help you with your order"
+      },
+      "sections": {
+        "followUs": "FOLLOW US",
+        "billingInfo": "BILLING INFORMATION",
+        "generalQuestions": "GENERAL QUESTIONS",
+        "faq": "FREQUENTLY ASKED QUESTIONS"
+      },
+      "faqNotFound": {
+        "title": "Didn't find the answer to your question?",
+        "subtitle": "We're happy to help you personally. Contact us by phone or email."
+      }
+    },
+    "notFound": {
+      "title": "Page not found - Berry Food",
+      "description": "The page you're looking for doesn't exist or has been moved.",
+      "hero": {
+        "title": "PAGE NOT FOUND",
+        "subtitle": "We're sorry, but the page you're looking for doesn't exist or has been moved."
+      },
+      "buttons": {
+        "home": "Home",
+        "back": "Back"
+      },
+      "quickLinks": "Maybe you're looking for:"
+    }
+  },
+  "cookies": {
+    "banner": {
+      "title": "We use cookies",
+      "description": "We use cookies to ensure proper website functionality and analyze traffic. You can change preferences anytime.",
+      "acceptAll": "Accept all",
+      "acceptNecessary": "Accept only necessary",
+      "settings": "Settings",
+      "text": "We use cookies to ensure proper website functionality and analyze traffic. You can change preferences anytime.",
+      "rejectAll": "Reject all"
+    },
+    "preferences": {
+      "title": "Cookie preferences",
+      "description": "Choose which cookies you want to allow. You can change these settings anytime.",
+      "categories": {
+        "essential": {
+          "title": "Essential cookies",
+          "description": "Ensure proper website functionality (security, basic settings). These cookies cannot be disabled."
+        },
+        "analytics": {
+          "title": "Analytics cookies",
+          "description": "Help us understand how the website is used (Google Analytics). We anonymously collect traffic statistics."
+        },
+        "marketing": {
+          "title": "Marketing cookies",
+          "description": "Enable personalized advertising and conversion tracking (e.g. Meta Pixel). Help us improve our services."
+        }
+      },
+      "doNotTrack": "Your browser has \"Do Not Track\" active. Analytics and marketing cookies are therefore disabled by default.",
+      "cancel": "Cancel",
+      "save": "Save settings"
+    }
+  },
+  "forms": {
+    "contact": {
+      "title": "WE'RE HERE FOR YOU",
+      "subtitle": "Write to us how we can help you",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "topic": "What do you need help with?",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Your name",
+        "email": "your@email.com",
+        "phone": "+420 123 456 789",
+        "message": "Write your question or message..."
+      },
+      "topics": {
+        "select": "Select...",
+        "general": "General question",
+        "catering": "Catering services",
+        "bistro": "Bistro question",
+        "delivery": "Food delivery",
+        "collaboration": "Collaboration",
+        "feedback": "Feedback",
+        "event": "Event organization"
+      },
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Thank you, message has been sent!",
+      "error": "Something went wrong, please try again.",
+      "required": "*",
+      "validation": {
+        "nameRequired": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email",
+        "topicRequired": "Please select a topic",
+        "messageRequired": "Message is required"
+      }
+    },
+    "cateringLead": {
+      "title": "CATERING",
+      "titleSecond": "REQUEST",
+      "subtitle": "Fill out the form and we'll get back to you with a tailored offer",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "date": "Event date",
+        "headcount": "Number of people",
+        "notes": "Notes"
+      },
+      "placeholders": {
+        "name": "Your name",
+        "email": "your@email.com",
+        "phone": "+420 123 456 789",
+        "headcount": "50",
+        "notes": "Describe event type, menu preferences, special requirements..."
+      },
+      "submit": "Send request",
+      "submitting": "Sending...",
+      "close": "Close modal",
+      "validation": {
+        "nameRequired": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email",
+        "dateRequired": "Event date is required",
+        "headcountRequired": "Number of people is required",
+        "headcountInvalid": "Please enter a valid number of people"
+      },
+      "toast": {
+        "success": "Message sent! We'll get back to you as soon as possible.",
+        "error": "Something went wrong. Please try again."
+      }
+    }
+  },
+  "footer": {
+    "bistroBudex": "Bistro BUDEX",
+    "bistroPlynarna": "Bistro Plynárna",
+    "billingInfo": "Billing information",
+    "companyName": "Berry Food service s.r.o.",
+    "registryNote": "Registry mark: C 31495 maintained at the Regional Court in České Budějovice",
+    "copyright": "© {{year}} Berry Food. All rights reserved.",
+    "cookies": "Cookies"
+  },
+  "faq": {
+    "categories": {
+      "catering": "Catering",
+      "bistros": "Bistros",
+      "delivery": "Food delivery"
+    },
+    "items": {
+      "cateringAdvance": {
+        "question": "How far in advance do I need to order catering?",
+        "answer": "For smaller events, we recommend ordering at least 3-5 days in advance, for weddings and larger events ideally 2-4 weeks in advance."
+      },
+      "cateringDietary": {
+        "question": "Do you prepare food for vegetarians or people with allergies?",
+        "answer": "Yes, we're happy to adapt the menu to your dietary requirements. Just inform us of all restrictions when ordering."
+      },
+      "cateringService": {
+        "question": "Do you also provide service and equipment for the event?",
+        "answer": "Yes, we provide complete service including professional staff, dishes, table linen and decorations."
+      },
+      "bistroReservation": {
+        "question": "Is it necessary to reserve a table in the bistro?",
+        "answer": "Reservation is not necessary, but we recommend it especially for larger groups or during lunch rush (11:30-13:00)."
+      },
+      "bistroHours": {
+        "question": "What are the opening hours of your bistros?",
+        "answer": "Bistro BUDEX: 7:30-15:00, Bistro Plynárna: 7:30-13:30. We serve daily menu until sold out."
+      },
+      "bistroMenu": {
+        "question": "How often does the daily menu change?",
+        "answer": "We prepare daily menu fresh every day with emphasis on seasonal ingredients and variety of dishes."
+      },
+      "deliveryArea": {
+        "question": "Where do you deliver food?",
+        "answer": "We deliver throughout České Budějovice and nearby areas. For more distant locations, contact us for individual arrangement."
+      },
+      "deliveryTime": {
+        "question": "What time do you deliver lunches?",
+        "answer": "We deliver lunches between 11:00-13:00. We'll specify the exact delivery time when ordering according to your location."
+      },
+      "deliveryFee": {
+        "question": "How much does food delivery cost?",
+        "answer": "Flat packaging fee is 10 CZK regardless of order size - no hidden fees or commissions."
+      }
+    }
+  },
+  "collaboration": {
+    "title": "COLLABORATION"
+  },
+  "about": {
+    "title": "ABOUT US",
+    "text1": "We prepare delicacies that make taste buds dance with joy.",
+    "text2": "We don't cheat with ingredients, we don't replace food with artificial flavorings. With us, you know what you're eating and you still enjoy how beautifully it looks.",
+    "text3": "We believe that beauty lies in simplicity and quality of flavors. And if you have sensitive digestion and need all those delicacies a bit lighter, we're ready to accommodate you as much as possible, so everyone can truly enjoy our food!",
+    "team": "OUR TEAM",
+    "teamSubtitle": "We prepare delicacies for you and take care of you at catering events"
+  },
+  "cateringSplitCards": {
+    "wedding": {
+      "title": "WEDDING CATERING",
+      "excerpt": "We'll create an unforgettable gastronomic experience for your most beautiful day with emphasis on uniqueness and personal approach.",
+      "cta": "Learn more"
+    },
+    "corporate": {
+      "title": "CORPORATE CATERING",
+      "excerpt": "Professional catering for corporate events, conferences and team building. Quality food that will support the success of your event."
+    }
+  },
+  "cateringCategories": {
+    "coldBuffet": "COLD BUFFET",
+    "warmBuffet": "WARM BUFFET",
+    "grilling": "GRILLING & BBQ",
+    "fingerFoods": "FINGER FOODS",
+    "sweetBar": "SWEET BAR",
+    "festiveHosting": "FESTIVE HOSTING"
+  },
+  "workingPrinciples": {
+    "description": "Say what you will, weddings and similar events are at least half about food. And we gladly take this responsibility upon ourselves!\n\nYou can count on a personal approach, taking into account all your wishes and dietary requirements.",
+    "locality": {
+      "title": "LOCALITY",
+      "description": "We work with local suppliers and farmers because we know that the best flavors come from fresh ingredients from our region."
+    },
+    "uniqueness": {
+      "title": "UNIQUENESS",
+      "description": "We'll make sure your event is remembered as the one where guests ate perfectly. Or we'll simply improve an ordinary day with an excellent lunch."
+    },
+    "precision": {
+      "title": "PRECISION",
+      "description": "We prepare every dish with attention to detail and respect for traditional recipes, which we combine with modern techniques."
+    },
+    "service": {
+      "title": "SERVICE",
+      "description": "Great food feeds the eyes too, which is why original service is another point we stand behind."
+    }
+  },
+  "rozvoz": {
+    "hero": {
+      "title": "WE PROVIDE DAILY CATERING",
+      "subtitle": "FOR EMPLOYEES DIRECTLY TO THE COMPANY"
+    },
+    "sections": {
+      "whyDelivery": "DO YOU WANT TO TREAT YOUR TEAM",
+      "whyDeliverySubtitle": "TO QUALITY LUNCH AT A REASONABLE PRICE?",
+      "howItWorks": "HOW DOES IT ALL WORK?",
+      "noCommission": "NO COURIER COMMISSION",
+      "noCommissionSubtitle": "With us, you pay fairly only for lunch + flat packaging fee of 10 CZK."
+    },
+    "content": {
+      "text1": "You don't have to worry about anything extra, just choose what you fancy.",
+      "text2": "Every day we deliver hot lunches in disposable boxes, or large thermo portions intended for self-service."
+    },
+    "steps": {
+      "step1": {
+        "beforeLink": "Lunch can be easily ordered in our system",
+        "linkText": "HERE",
+        "afterLink": ""
+      },
+      "step2": {
+        "beforeHighlight": "You choose from the menu and click the",
+        "highlightText": "ORDER",
+        "afterHighlight": " button."
+      },
+      "step3": {
+        "text": "Enter email."
+      },
+      "step4": {
+        "text": "Complete registration and fill in delivery address."
+      },
+      "step5": {
+        "beforeHighlight": "Then enter your name, password, phone and click",
+        "highlightText": "CREATE ACCOUNT",
+        "afterHighlight": "."
+      },
+      "step6": {
+        "text": "You have ordered and created an account."
+      }
+    },
+    "features": {
+      "invoicePayment": "Invoice payment",
+      "priceVisibility": "Price visibility division into subsidized and paid part",
+      "roleAssignment": "Role and competence assignment to your diners in the ordering system",
+      "physicalTerminal": "In addition to the web interface of the ordering system, we offer installation of a physical ordering and dispensing terminal directly in your company"
+    },
+    "cta": {
+      "orderDelivery": "Order delivery"
+    }
+  },
+  "menuCta": {
+    "title": "CURRENT MENU",
+    "subtitle": "Discover fresh specialties we prepare for you every day"
+  },
+  "admin": {
+    "title": "ADMIN PANEL",
+    "login": {
+      "title": "ADMIN LOGIN",
+      "email": "Email",
+      "password": "Password",
+      "emailPlaceholder": "yourmail@berryfood.cz",
+      "passwordPlaceholder": "••••••••",
+      "remember": "Remember login",
+      "submit": "Log in",
+      "submitting": "Logging in...",
+      "error": "Incorrect login credentials",
+      "generalError": "Login error"
+    },
+    "upload": {
+      "title": "UPLOAD MENU",
+      "fileLabel": "Menu file (JPG, PNG, WebP, AVIF)",
+      "submit": "Upload menu",
+      "submitting": "Uploading...",
+      "success": "Daily menu was successfully uploaded!",
+      "error": "Error uploading file",
+      "selectFile": "Select file"
+    },
+    "logout": "Log out"
+  },
+  "mista": {
+    "hero": {
+      "title": "WHERE CAN YOU TASTE",
+      "subtitle": "OUR CATERING?",
+      "description": "During the summer season, we focus on weddings and social events.\n\nIn addition to events you can arrange with us, we prepare catering in these summer resorts:"
+    },
+    "resorts": {
+      "stodola": {
+        "name": "STODOLA PLÁSTOVICE",
+        "text1": "Stodola Plástovice is a <highlight>unique outdoor location</highlight> that harmoniously combines rustic charm with modern elements. This space offers ideal facilities for both wedding ceremonies and receptions, as well as various social events.",
+        "text2": "Wedding ceremonies can be arranged in several picturesque corners of the resort, including a spacious orchard. Festive receptions are held in a modernly reconstructed barn, where thousands of lights create a <highlight>magical romantic atmosphere</highlight> in which you'll feel like in a dream.",
+        "text3": "The barn is adapted for festive dining or buffet style and has its own complete equipment, bar and enough space for music and evening dancing.",
+        "text4": "You'll be surprised by the coziness of our guest rooms with capacity up to <highlight>32 beds</highlight>. Say your YES to us."
+      },
+      "aloha": {
+        "name": "ALOHA BAR HLUBOKÁ NAD VLTAVOU",
+        "text1": "The attention of engaged couples is rightfully attracted by the new extraordinary spaces of Aloha bar in <highlight>Hluboká nad Vltavou</highlight>.",
+        "text2": "Summer, almost <highlight>seaside atmosphere</highlight> with nearby beach on the riverbank.",
+        "text3": "The bar offers up to <highlight>300 covered seats</highlight>. From formal seating under a Bedouin tent to informal relaxation loungers placed on fine white sand.",
+        "text4": "Newlyweds can treat themselves to a boat ride with a view of the romantic Hluboká castle, or they can spice up the evening entertainment of wedding guests with <highlight>mini golf</highlight>."
+      },
+      "strizovicky": {
+        "name": "STŘÍŽOVICKÝ DVŮR",
+        "text1": "This beautiful building is located in the touristically attractive area of Jindřichohradecko, also known as <highlight>Czech Canada</highlight>.",
+        "text2": "Thanks to the unmistakable romantic atmosphere that literally radiates from the place, and the adjacent reconstructed barn, Střížovický dvůr is perfect for holding <highlight>weddings and various celebrations</highlight>."
+      },
+      "horecky": {
+        "name": "HORECKÝ DVŮR",
+        "text1": "Horecký dvůr in Vysočina is the perfect place for your <highlight>wedding day</highlight>.",
+        "text2": "<highlight>Historical atmosphere from 1830</highlight>, stylish barn for <highlight>90 guests</highlight> with bar and gastro kitchen and picturesque alley leading to it – all this creates a unique environment full of romance.",
+        "text3": "The entire resort offers maximum privacy, possibility of ceremony right on site, luxury wedding apartment and terrace ideal for dancing under the open sky. Thanks to the location outside city noise, you'll enjoy <highlight>undisturbed celebration until late hours</highlight>.",
+        "text4": "Choose Horecký dvůr and we at Berry Food Catering will take care of the perfect menu that will emphasize the uniqueness of this exceptional day."
+      },
+      "nastrani": {
+        "name": "RESTAURANT NA STRÁNI",
+        "text1": "Restaurant Na Stráni in Dobrá Voda near České Budějovice offers an ideal combination of modern style and top gastro experience.",
+        "text2": "With capacity of more than <highlight>200 guests</highlight> and comfortable parking for more than 100 cars, it's a perfect place not only for weddings, but also for corporate events or social occasions.",
+        "text3": "In addition to pleasant spaces, we provide <highlight>complete tailored service</highlight> – from excellent buffet through professional service to live music or artistic performances. At Berry Food Catering, we'll prepare the perfect menu for you that will elevate your festive day to an unforgettable experience."
+      }
+    },
+    "common": {
+      "visitWebsite": "Visit website",
+      "resortNumber": "Resort {{number}} of {{total}}"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "showMore": "Show more",
+    "showAll": "Show all {{count}} photos",
+    "gallery": "Gallery",
+    "zoomIn": "Zoom in",
+    "required": "*"
+  }
+}

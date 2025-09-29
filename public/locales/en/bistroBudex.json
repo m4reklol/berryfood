@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Bistro BUDEX - Berry Food",
+    "description": "Bistro BUDEX in České Budějovice. Unique concept for corporate and business meetings with professional facilities and exquisite catering."
+  },
+  "hero": {
+    "title": "BISTRO BUDEX",
+    "subtitle": "Looking for a place where productivity meets comfort, inspiration meets taste, and views meet extraordinary atmosphere? Bistro BUDEX is a unique concept for your corporate and business meetings – from morning breakfasts, workshops and presentations to evening networking with accompanying programs.",
+    "cta": "Contact us"
+  },
+  "sections": {
+    "professionalFacilities": "PROFESSIONAL FACILITIES",
+    "gastronomicSignature": "GASTRONOMIC",
+    "gastronomicSignatureAccent": "SIGNATURE",
+    "whyChooseUs": "WHY CHOOSE",
+    "whyChooseUsAccent": "US?",
+    "whatYouExperience": "WHAT YOU'LL",
+    "whatYouExperienceAccent": "EXPERIENCE",
+    "availability": "ACCESSIBILITY",
+    "atmosphere": "ATMOSPHERE",
+    "contact": "CONTACT",
+    "findUs": "FIND US"
+  },
+  "content": {
+    "facilitiesIntro": "It's not just about tables and chairs here. Ideas are born here. You can expect an environment where everything is prepared to make your event unforgettable.",
+    "signatureParagraph": "We know that good food is part of good cooperation. Therefore, as part of every event, count on exquisite catering tailored to your needs, prepared by the Berry Food team.",
+    "experiencesIntro": "At Bistro BUDEX, we combine professional facilities with an atmosphere where you can work and have fun – you can expect an environment that inspires and tastes that are unforgettable.",
+    "mapTitle": "Map - Bistro BUDEX"
+  },
+  "lists": {
+    "menuServices": [
+      {
+        "title": "LUNCHES & CAFÉ",
+        "description": "The space offers daily visits for up to <span class=\"font-semibold text-[var(--color-primary)]\">50 regular diners</span>, including a diverse lunch menu and <span class=\"font-semibold text-[var(--color-primary)]\">café with pastry shop</span> operation, which attracts with <span class=\"font-semibold text-[var(--color-primary)]\">quality coffee and fresh desserts</span>."
+      },
+      {
+        "title": "BUSINESS EVENTS",
+        "description": "During the day, the space can also be used for <span class=\"font-semibold text-[var(--color-primary)]\">creative brunches</span>, <span class=\"font-semibold text-[var(--color-primary)]\">corporate presentations</span> or friendly meetings when welcoming guests, in a pleasant atmosphere that supports <span class=\"font-semibold text-[var(--color-primary)]\">informal networking</span> and <span class=\"font-semibold text-[var(--color-primary)]\">creative ideas</span>."
+      },
+      {
+        "title": "EVENING EVENTS",
+        "description": "In the evening hours, the space transforms into an ideal place for <span class=\"font-semibold text-[var(--color-primary)]\">corporate parties</span>, <span class=\"font-semibold text-[var(--color-primary)]\">private celebrations</span> or <span class=\"font-semibold text-[var(--color-primary)]\">themed tastings</span>, where guests can enjoy <span class=\"font-semibold text-[var(--color-primary)]\">unique experiences</span> combined with <span class=\"font-semibold text-[var(--color-primary)]\">top gastronomy</span> and quality service."
+      }
+    ],
+    "facilities": [
+      "Wide-angle LED TV with connection options",
+      "Flipchart for brainstorming",
+      "Comfortable seating for 72 people",
+      "Air conditioning and spacious areas",
+      "Outdoor terrace with views",
+      "Professional gastronomic and barista equipment"
+    ],
+    "specialties": [
+      "Italian coffee from lever espresso machine",
+      "Homemade lemonades, kombucha, fresh juice",
+      "Brunch specialties, buffets, dinners",
+      "Homemade pastry delicacies"
+    ],
+    "experiences": [
+      "Business breakfasts and brunch",
+      "Workshops, training, meetings",
+      "Terrace presentations with grilling",
+      "Evening events with music"
+    ],
+    "whyChooseUs": [
+      "Exceptional environment with sunset views",
+      "Natural materials and newly equipped interior",
+      "Possibility of complete turnkey organization",
+      "Informal and friendly atmosphere"
+    ],
+    "availabilityItems": {
+      "nearCenter": "Only 10 min from České Budějovice center",
+      "goodParking": "Hassle-free parking",
+      "nearBikeAndMhd": "Near bike path and public transport stop (line 19)"
+    },
+    "atmosphereItems": {
+      "quietEnvironment": "Quiet environment, inspiring views",
+      "inspiringSpace": "Space that inspires by itself",
+      "unforgettableTastes": "Tastes that are unforgettable"
+    }
+  },
+  "cta": {
+    "reserveDate": "Reserve your date"
+  },
+  "gallery": {
+    "showAll": "Show all {{count}} photos",
+    "closeGallery": "Close gallery",
+    "previousImage": "Previous image",
+    "nextImage": "Next image"
+  }
+}

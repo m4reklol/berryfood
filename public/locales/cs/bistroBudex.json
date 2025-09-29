@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Bistro BUDEX - Berry Food",
+    "description": "Bistro BUDEX v Českých Budějovicích. Unikátní koncept pro firemní a business setkání s profesionálním zázemím a vymazleným cateringem."
+  },
+  "hero": {
+    "title": "BISTRO BUDEX",
+    "subtitle": "Hledáte místo, kde se potkává produktivita s pohodou, inspirace s chutí a výhled s nevšední atmosférou? Bistro BUDEX je unikátní koncept pro Vaše firemní a business setkání – od dopoledních snídaní, workshopů a prezentací až po večerní networking s doprovodným programem.",
+    "cta": "Kontaktujte nás"
+  },
+  "sections": {
+    "professionalFacilities": "PROFESIONÁLNÍ ZÁZEMÍ",
+    "gastronomicSignature": "GASTRONOMICKÝ",
+    "gastronomicSignatureAccent": "PODPIS",
+    "whyChooseUs": "PROČ SI VYBRAT",
+    "whyChooseUsAccent": "PRÁVĚ NÁS?",
+    "whatYouExperience": "CO U NÁS",
+    "whatYouExperienceAccent": "ZAŽIJETE",
+    "availability": "DOSTUPNOST",
+    "atmosphere": "ATMOSFÉRA",
+    "contact": "KONTAKT",
+    "findUs": "NAJDETE NÁS"
+  },
+  "content": {
+    "facilitiesIntro": "U nás nejde jen o stoly a židle. U nás se rodí nápady. Čeká Vás prostředí, kde je vše připravené na to, aby Vaše akce byla nezapomenutelná.",
+    "signatureParagraph": "Víme, že dobré jídlo je součástí dobré spolupráce. Proto jako součást každé akce počítejte s vymazleným cateringem na míru, připraveným týmem Berry Food.",
+    "experiencesIntro": "V Bistru BUDEX spojujeme profesionální zázemí s atmosférou, kde se skvěle pracuje i baví – čeká Vás prostředí, které inspiruje, a chutě, na které se nezapomíná.",
+    "mapTitle": "Mapa - Bistro BUDEX"
+  },
+  "lists": {
+    "menuServices": [
+      {
+        "title": "OBĚDY & KAVÁRNA",
+        "description": "Prostor nabízí každodenní návštěvy až pro <span class=\"font-semibold text-[var(--color-primary)]\">50 stálých strávníků</span>, a to včetně pestré nabídky obědového menu i provozu <span class=\"font-semibold text-[var(--color-primary)]\">kavárny s cukrárnou</span>, která láká na <span class=\"font-semibold text-[var(--color-primary)]\">kvalitní kávu a čerstvé dezerty</span>."
+      },
+      {
+        "title": "BUSINESS AKCE",
+        "description": "V průběhu dne lze prostor využít také pro <span class=\"font-semibold text-[var(--color-primary)]\">kreativní brunche</span>, <span class=\"font-semibold text-[var(--color-primary)]\">firemní prezentace</span> či přátelská setkání při uvítání hostů, a to v příjemné atmosféře, která podporuje <span class=\"font-semibold text-[var(--color-primary)]\">neformální networking</span> i <span class=\"font-semibold text-[var(--color-primary)]\">tvůrčí nápady</span>."
+      },
+      {
+        "title": "VEČERNÍ AKCE",
+        "description": "Ve večerních hodinách se prostor proměňuje v ideální místo pro <span class=\"font-semibold text-[var(--color-primary)]\">firemní večírky</span>, <span class=\"font-semibold text-[var(--color-primary)]\">soukromé oslavy</span> nebo <span class=\"font-semibold text-[var(--color-primary)]\">tematické degustace</span>, kde si hosté mohou vychutnat <span class=\"font-semibold text-[var(--color-primary)]\">unikátní zážitky</span> spojené se <span class=\"font-semibold text-[var(--color-primary)]\">špičkovou gastronomií</span> a kvalitním servisem."
+      }
+    ],
+    "facilities": [
+      "Širokoúhlá LED TV s možností připojení",
+      "Flipchart pro brainstorming",
+      "Pohodlné sezení pro 72 osob",
+      "Klimatizace a vzdušné prostory",
+      "Venkovní terasa s výhledem",
+      "Profesionální gastronomické a baristické vybavení"
+    ],
+    "specialties": [
+      "Italská káva z pákového kávovaru",
+      "Domácí limonády, kombucha, fresh juice",
+      "Brunchové speciality, rauty, večeře",
+      "Domácí cukrářské dobroty"
+    ],
+    "experiences": [
+      "Business snídaně a brunch",
+      "Workshopy, školení, porady",
+      "Prezentace na terase s grilováním",
+      "Večerní akce s hudbou"
+    ],
+    "whyChooseUs": [
+      "Výjimečné prostředí s výhledem na západ slunce",
+      "Přírodní materiály a nově vybavený interiér",
+      "Možnost kompletní organizace na klíč",
+      "Neformální a přátelská atmosféra"
+    ],
+    "availabilityItems": {
+      "nearCenter": "Pouze 10 min od centra Českých Budějovic",
+      "goodParking": "Bezproblémové parkování",
+      "nearBikeAndMhd": "U cyklostezky i zastávky MHD (linka 19)"
+    },
+    "atmosphereItems": {
+      "quietEnvironment": "Klidné prostředí, inspirativní výhledy",
+      "inspiringSpace": "Prostor, který sám o sobě inspiruje",
+      "unforgettableTastes": "Chutě, na které se nezapomíná"
+    }
+  },
+  "cta": {
+    "reserveDate": "Rezervujte si termín"
+  },
+  "gallery": {
+    "showAll": "Zobrazit všech {{count}} fotek",
+    "closeGallery": "Zavřít galerii",
+    "previousImage": "Předchozí obrázek",
+    "nextImage": "Další obrázek"
+  }
+}

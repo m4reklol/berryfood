@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://berryfood.cz/sitemap.xml
+Host: berryfood.cz

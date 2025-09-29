@@ -1,0 +1,606 @@
+{
+  "hero": {
+    "title": "Kuchyně vymazlená",
+    "subtitle": "obyčejnou poctivostí",
+    "cards": {
+      "catering": {
+        "title": "CATERING",
+        "description": "Profesionální cateringové služby pro svatby, firemní akce a oslavy"
+      },
+      "rozvoz": {
+        "title": "ROZVOZ",
+        "description": "Rychlý rozvoz čerstvých obědů přímo do Vaší firmy"
+      },
+      "bistra": {
+        "title": "BISTRA",
+        "description": "Navštivte naše útulná bistra s domácí kuchyní"
+      },
+      "budex": {
+        "title": "BISTRO BUDEX",
+        "description": "Planá 67, České Budějovice"
+      },
+      "plynarna": {
+        "title": "BISTRO PLYNÁRNA",
+        "description": "Vrbenská 2/2b, Č. Budějovice"
+      }
+    }
+  },
+  "navigation": {
+    "home": "Domů",
+    "catering": "Catering",
+    "weddings": "Svatební catering",
+    "corporate": "Firemní catering",
+    "delivery": "Rozvoz jídel",
+    "bistros": "Bistra",
+    "budex": "Bistro BUDEX",
+    "plynarna": "Bistro Plynárna",
+    "locations": "Kde nás ochutnat",
+    "menu": "Menu",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "contact": "Kontakt",
+    "orderDelivery": "Objednat rozvoz",
+    "viewMenu": "Prohlédnout menu",
+    "requestCatering": "Poptávka cateringu",
+    "requestWeddingCatering": "Poptat svatební catering",
+    "requestCorporateCatering": "Poptat firemní catering",
+    "reserveTable": "Rezervovat stůl",
+    "visitWebsite": "Navštívit web"
+  },
+  "pages": {
+    "home": {
+      "title": "Berry Food - Kuchyně zdokonalená jednoduchou poctivostí",
+      "description": "Profesionální catering, rozvoz jídel a útulná bistra v Českých Budějovicích. Čerstvá jídla z kvalitních surovin každý den."
+    },
+    "bistroPlynarna": {
+      "title": "Bistro Plynárna - Berry Food",
+      "description": "Bistro Plynárna na Vrbenské ulici v Českých Budějovicích. Domácí obědy, snídaně a dezerty v prostorách bývalé plynárny.",
+      "hero": {
+        "title": "BISTRO PLYNÁRNA",
+        "subtitle": "Jsme obědová restaurace v prostorách bývalé plynárny na Vrbenské ulici. Připravujeme obědy pro všechny, kteří stojí o domácí nešizenou stravu jako každodenní standard. Také nabízíme kantýnové produkty v podobě nabušených snídaní a svačin.",
+        "cta": "Prohlédnout menu"
+      },
+      "sections": {
+        "whyChooseUs": "PROČ SI VYBRAT",
+        "whyChooseUsHighlight": "BISTRO PLYNÁRNA?",
+        "ourLunches": "NAŠE OBĚDY",
+        "breakfast": "SNÍDANĚ"
+      },
+      "features": {
+        "honestLunches": "POCTIVÉ OBĚDY",
+        "honestLunchesDesc": "Každý všední den z čerstvých surovin bez kompromisů v kvalitě.",
+        "homemadeDesserts": "DOMÁCÍ DEZERTY",
+        "homemadeDessertsDesc": "Vlastní limonády a něco sladkého i slaného ke kávě.",
+        "friendlyBistro": "PŘÁTELSKÉ BISTRO",
+        "friendlyBistroDesc": "Pro rychlý oběd i klidnější pauzu v příjemném prostředí."
+      },
+      "lunchDescription": "Provoz kuchyně koresponduje s prioritou čerstvých surovin a originalitou. Nabízíme několik variant jídel, které jsou sestaveny tak, aby uspokojily co nejširší poptávku obědů.",
+      "lunchTypes": {
+        "quickMeals": "MINUTKY",
+        "quickMealsDesc": "Rychlé a chutné pokrmy",
+        "lightLunches": "LEHKÉ OBĚDY",
+        "lightLunchesDesc": "Pro zdravý životní styl",
+        "specialties": "SPECIALITY",
+        "specialtiesDesc": "Zahraniční i české klasiky",
+        "desserts": "DEZERTY",
+        "dessertsDesc": "Vlastní limonády a sladkosti"
+      },
+      "dailyMenu": "Naše denní nabídka se skládá ze 3–4 jídel a polévky. Milovníky sladkého potěšíme například buchtičkami se šodó či domácími ovocnými knedlíky. Díky našemu šéfkuchaři se můžete těšit i na speciální příležitosti jako oslavu dne svatého Martina s propečenou husou.",
+      "breakfastDescription": "Ráno dělá den, proto si ho můžete přijít zpříjemnit pořádnou snídaní! Ať už fandíte sladké, nebo slané chuti, dopolední hlad už Vás nemůže zaskočit.",
+      "breakfastItems": {
+        "freshPastry": "ČERSTVÉ PEČIVO",
+        "sandwiches": "OBLOŽENÉ CHLEBY",
+        "eggs": "VEJCE NA ZPŮSOB",
+        "cakes": "KYNUTÉ KOLÁČE",
+        "desserts": "DEZERTY DO SKLA",
+        "croissants": "CROISSANTY"
+      }
+    },
+    "catering": {
+      "title": "Catering - Berry Food",
+      "description": "Profesionální cateringové služby pro svatby, firemní akce a společenské příležitosti. Kvalitní jídlo z čerstvých surovin.",
+      "hero": {
+        "title": "CATERING",
+        "subtitle": "Poctivý catering šitý na míru – svatby, firemní akce, oslavy. Vždy z kvalitních, sezónních surovin."
+      },
+      "sections": {
+        "specialization": "NA CO SE SPECIALIZUJEME",
+        "howWeWork": "JAK PRACUJEME",
+        "finalCta": "PŘIPRAVENI VYTVOŘIT NEZAPOMENUTELNÝ ZÁŽITEK?",
+        "finalCtaSubtitle": "Kontaktujte nás pro nezávaznou konzultaci a společně vytvoříme catering šitý na míru Vaší představě"
+      }
+    },
+    "weddingCatering": {
+      "title": "Svatební catering - Berry Food",
+      "description": "Svatební catering s důrazem na jedinečnost a osobní přístup. Vytvoříme nezapomenutelný gastronomický zážitek pro váš nejkrásnější den.",
+      "hero": {
+        "title": "SVATEBNÍ CATERING",
+        "subtitle": "Na svatbě záleží na každém detailu – a jídlo je jedním z těch nejdůležitějších."
+      },
+      "intro": {
+        "highlight": "Připravujeme dobroty, díky kterým plesají chuťové pohárky.",
+        "text1": "Suroviny nešidíme, potraviny nenahrazujeme umělými dochucovadly. S námi víš, co jíš a ještě se raduješ z toho, jak pěkně to vypadá.",
+        "text2": "V jednoduchosti a kvalitě chutí je podle nás krása. A pokud máš citlivější trávení a potřebuješ všechny ty pochoutky trochu odlehčit, jsme připraveni ti vyjít maximálně vstříc, aby si naše jídlo užil opravdu každý!"
+      },
+      "sections": {
+        "whyChooseUs": "PROČ SI VYBRAT NÁS",
+        "whatToExpect": "CO MŮŽETE OČEKÁVAT",
+        "howWeWork": "JAK PRACUJEME",
+        "finalCta": "PŘIPRAVENI NA SVATEBNÍ MENU VAŠICH SNŮ?",
+        "finalCtaSubtitle": "Kontaktujte nás pro nezávaznou konzultaci a společně vytvoříme catering pro Váš nejkrásnější den"
+      },
+      "features": {
+        "completeService": "KOMPLETNÍ SERVIS",
+        "individualApproach": "INDIVIDUÁLNÍ PŘÍSTUP",
+        "professionalStaff": "PROFESIONÁLNÍ PERSONÁL",
+        "eleganceStyle": "ELEGANCE & STYL"
+      }
+    },
+    "corporateCatering": {
+      "title": "Firemní catering - Berry Food",
+      "description": "Profesionální catering pro firemní akce, konference a teambuilding. Kvalitní jídlo, které podpoří úspěch Vaší akce.",
+      "hero": {
+        "title": "FIREMNÍ CATERING",
+        "subtitle": "Profesionální catering pro firemní akce, který podpoří úspěch Vaší akce."
+      },
+      "intro": {
+        "highlight": "Znamenitý catering není pouze o dokonalé symbióze chutí.",
+        "text1": "Měl by promítnout příležitost, pro kterou je servírován a zapadnout do celkové atmosféry konkrétní akce. Ať už tedy máte zájem o nazdobené pokrmy vysoké gastronomie, nebo máte rádi uvolněnou tradiční atmosféru při otáčení prasete, vždy naplníme Vaše představy o perfektním pohoštění.",
+        "text2": "Naším cílem je připravit \"uměleckou výstavu\" dobrot, které odpovídají Vašim požadavkům a přidat k nim ještě něco navíc.",
+        "text3": "Máme zkušenosti s přípravou cateringu pro akce různého charakteru. Ať už jde o jakoukoliv příležitost, snažíme se být vždy originální a vycházet z kvalit, které jsou pro nás nenahraditelné. Vysoká gastronomie, kreativita, skutečné chutě vycházející ze základních surovin.",
+        "text4": "Preciznost podávaných pokrmů či připraveného rautu se vždy odvíjí od příběhu, který stojí za jednotlivými surovinami. Proto klademe důraz na lokální odběr a samozřejmě na sezónní potraviny. Protože jen skutečné jídlo může být luxusním zážitkem."
+      },
+      "sections": {
+        "occasions": "PŘÍLEŽITOSTI",
+        "foodTypes": "TYPY JÍDEL",
+        "howWeWork": "JAK PRACUJEME",
+        "finalCta": "PŘIPRAVENI VYTVOŘIT FIREMNÍ AKCI NA MÍRU?",
+        "finalCtaSubtitle": "Kontaktujte nás pro nezávaznou konzultaci a společně vytvoříme catering pro Vaši firemní akci"
+      },
+      "occasions": {
+        "conferences": "KONFERENCE",
+        "corporateParties": "FIREMNÍ VEČÍRKY",
+        "openDay": "DEN OTEVŘENÝCH DVEŘÍ",
+        "teambuilding": "TEAMBUILDING"
+      }
+    },
+    "menu": {
+      "title": "Menu - Berry Food",
+      "description": "Aktuální menu s čerstvě připravenými pokrmy. Denní menu z kvalitních surovin.",
+      "hero": {
+        "title": "MENU",
+        "subtitle": "Čerstvě připravené pokrmy každý den"
+      },
+      "refresh": "Obnovit",
+      "notUploaded": "Denní menu ještě nebylo nahráno.",
+      "allergensNote": "Seznam alergenů najdete",
+      "allergensLink": "ZDE"
+    },
+    "delivery": {
+      "title": "Rozvoz jídel - Berry Food",
+      "description": "Rozvoz čerstvých obědů přímo do Vaší firmy. Kvalitní jídlo bez provize kurýra.",
+      "hero": {
+        "title": "ZAJIŠŤUJEME DENNÍ STRAVOVÁNÍ",
+        "subtitle": "PRO ZAMĚSTNANCE PŘÍMO DO FIRMY"
+      },
+      "sections": {
+        "whyDelivery": "CHCETE SVŮJ TÝM POTĚŠIT",
+        "whyDeliverySubtitle": "KVALITNÍM OBĚDEM ZA ROZUMNOU CENU?",
+        "howItWorks": "JAK TO CELÉ FUNGUJE?",
+        "noCommission": "ŽÁDNÁ PROVIZE KURÝRA",
+        "noCommissionSubtitle": "U nás platíte férově pouze za oběd + paušální poplatek za balení 10 Kč."
+      },
+      "content": {
+        "text1": "Nemusíte se starat o nic navíc, jen si vyberte, na co máte chuť.",
+        "text2": "Každý den dovážíme teplé obědy v jednorázových boxech, nebo velké termo porce určené k samoobsluze."
+      },
+      "steps": {
+        "step1": "Oběd si můžete jednoduše objednat v našem systému ZDE",
+        "step1Link": "ZDE",
+        "step2": "Vyberete si z menu a kliknete na tlačítko OBJEDNAT.",
+        "step2Highlight": "OBJEDNAT",
+        "step3": "Zadáte email.",
+        "step4": "Dokončíte registraci a vyplníte dodací adresu.",
+        "step5": "Poté zadáte své jméno, heslo, telefon a kliknete VYTVOŘIT ÚČET.",
+        "step5Highlight": "VYTVOŘIT ÚČET",
+        "step6": "Máte objednáno a vytvořený účet."
+      },
+      "features": {
+        "invoicePayment": "Platba na fakturu",
+        "priceVisibility": "Viditelnost ceny rozdělení na dotovanou a placenou část",
+        "roleAssignment": "Přiřazení rolí a kompetencí Vašim strávníkům v objednávkovém systému",
+        "physicalTerminal": "Kromě webového rozhraní objednávkového systému nabízíme instalaci fyzického objednávkového a výdejního terminálu přímo ve vaší firmě"
+      }
+    },
+    "locations": {
+      "title": "Kde nás ochutnat - Berry Food",
+      "description": "Letní resorty a místa, kde můžete ochutnat náš catering. Stodola Plástovice, Aloha Bar, Střížovický dvůr a další.",
+      "hero": {
+        "title": "KDE MŮŽETE OCHUTNAT",
+        "subtitle": "NÁŠ CATERING?",
+        "description": "Během letní sezóny se zaměřujeme na svatby a společenské události. Kromě akcí, které si s námi můžete domluvit, připravujeme catering v těchto letních resortech:"
+      }
+    },
+    "contact": {
+      "title": "Kontakt - Berry Food",
+      "description": "Kontaktní informace na Berry Food. Bistro BUDEX, Bistro Plynárna, fakturační údaje a kontaktní formulář.",
+      "hero": {
+        "title": "KONTAKTUJTE NÁS",
+        "subtitle": "Rádi odpovíme na Vaše dotazy a pomůžeme Vám s objednávkou"
+      },
+      "sections": {
+        "followUs": "SLEDUJTE NÁS",
+        "billingInfo": "FAKTURAČNÍ ÚDAJE",
+        "generalQuestions": "OBECNÉ DOTAZY",
+        "faq": "ČASTO KLADENÉ OTÁZKY"
+      },
+      "faqNotFound": {
+        "title": "Nenašli jste odpověď na svou otázku?",
+        "subtitle": "Rádi Vám pomůžeme osobně. Kontaktujte nás telefonicky nebo e-mailem."
+      }
+    },
+    "notFound": {
+      "title": "Stránka nenalezena - Berry Food",
+      "description": "Stránka, kterou hledáte, neexistuje nebo byla přesunuta.",
+      "hero": {
+        "title": "STRÁNKA NENALEZENA",
+        "subtitle": "Omlouváme se, ale stránka, kterou hledáte, neexistuje nebo byla přesunuta."
+      },
+      "buttons": {
+        "home": "Domů",
+        "back": "Zpět"
+      },
+      "quickLinks": "Možná hledáte:"
+    }
+  },
+  "cookies": {
+    "banner": {
+      "title": "Používáme cookies",
+      "description": "Používáme cookies pro zajištění správného fungování webu a analýzu návštěvnosti. Preference můžete kdykoli změnit.",
+      "acceptAll": "Přijmout vše",
+      "acceptNecessary": "Přijmout pouze nezbytné",
+      "settings": "Nastavení",
+      "text": "Používáme cookies pro zajištění správného fungování webu a analýzu návštěvnosti. Preference můžete kdykoli změnit.",
+      "rejectAll": "Odmítnout vše"
+    },
+    "preferences": {
+      "title": "Nastavení cookies",
+      "description": "Vyberte, které cookies chcete povolit. Tato nastavení můžete kdykoli změnit.",
+      "categories": {
+        "essential": {
+          "title": "Nezbytné cookies",
+          "description": "Zajišťují správné fungování webu (zabezpečení, základní nastavení). Tyto cookies nelze zakázat."
+        },
+        "analytics": {
+          "title": "Analytické cookies",
+          "description": "Pomáhají nám pochopit, jak je web používán (Google Analytics). Anonymně sbíráme statistiky návštěvnosti."
+        },
+        "marketing": {
+          "title": "Marketingové cookies",
+          "description": "Umožňují personalizovanou reklamu a sledování konverzí (např. Meta Pixel). Pomáhají nám zlepšovat naše služby."
+        }
+      },
+      "doNotTrack": "Váš prohlížeč má aktivní \"Do Not Track\". Analytické a marketingové cookies jsou proto ve výchozím nastavení zakázané.",
+      "cancel": "Zrušit",
+      "save": "Uložit nastavení"
+    }
+  },
+  "forms": {
+    "contact": {
+      "title": "JSME TU PRO VÁS",
+      "subtitle": "Napište nám, jak Vám můžeme pomoci",
+      "fields": {
+        "name": "Jméno",
+        "email": "Email",
+        "phone": "Telefon",
+        "topic": "S čím potřebujete pomoci?",
+        "message": "Zpráva"
+      },
+      "placeholders": {
+        "name": "Vaše jméno",
+        "email": "vas@email.cz",
+        "phone": "+420 123 456 789",
+        "message": "Napište svůj dotaz nebo zprávu..."
+      },
+      "topics": {
+        "select": "Vyberte...",
+        "general": "Obecný dotaz",
+        "catering": "Cateringové služby",
+        "bistro": "Dotaz k bistrům",
+        "delivery": "Rozvoz jídel",
+        "collaboration": "Spolupráce",
+        "feedback": "Zpětná vazba",
+        "event": "Pořádání akce"
+      },
+      "submit": "Odeslat zprávu",
+      "submitting": "Odesílání...",
+      "success": "Děkujeme, zpráva byla odeslána!",
+      "error": "Něco se pokazilo, zkuste to prosím znovu.",
+      "required": "*",
+      "validation": {
+        "nameRequired": "Jméno je povinné",
+        "emailRequired": "Email je povinný",
+        "emailInvalid": "Zadejte prosím platný email",
+        "topicRequired": "Vyberte prosím téma",
+        "messageRequired": "Zpráva je povinná"
+      }
+    },
+    "cateringLead": {
+      "title": "POPTÁVKA",
+      "titleSecond": "CATERINGU",
+      "subtitle": "Vyplňte formulář a my se Vám ozveme s nabídkou na míru",
+      "fields": {
+        "name": "Jméno",
+        "email": "Email",
+        "phone": "Telefon",
+        "date": "Datum akce",
+        "headcount": "Počet osob",
+        "notes": "Poznámky"
+      },
+      "placeholders": {
+        "name": "Vaše jméno",
+        "email": "vas@email.cz",
+        "phone": "+420 123 456 789",
+        "headcount": "50",
+        "notes": "Popište typ akce, preference menu, speciální požadavky..."
+      },
+      "submit": "Odeslat poptávku",
+      "submitting": "Odesílání...",
+      "close": "Zavřít modal",
+      "validation": {
+        "nameRequired": "Jméno je povinné",
+        "emailRequired": "Email je povinný",
+        "emailInvalid": "Zadejte prosím platný email",
+        "dateRequired": "Datum akce je povinné",
+        "headcountRequired": "Počet osob je povinný",
+        "headcountInvalid": "Zadejte prosím platný počet osob"
+      },
+      "toast": {
+        "success": "Zpráva odeslána! Ozveme se Vám co nejdříve.",
+        "error": "Něco se pokazilo. Zkuste to prosím znovu."
+      }
+    }
+  },
+  "footer": {
+    "bistroBudex": "Bistro BUDEX",
+    "bistroPlynarna": "Bistro Plynárna",
+    "billingInfo": "Fakturační údaje",
+    "companyName": "Berry Food service s.r.o.",
+    "registryNote": "Spisová značka: C 31495 vedená u Krajského soudu v Českých Budějovicích",
+    "copyright": "© {{year}} Berry Food. Všechna práva vyhrazena.",
+    "cookies": "Cookies"
+  },
+  "faq": {
+    "categories": {
+      "catering": "Catering",
+      "bistros": "Bistra",
+      "delivery": "Rozvoz jídel"
+    },
+    "items": {
+      "cateringAdvance": {
+        "question": "Jak dlouho dopředu musím objednat catering?",
+        "answer": "Pro menší akce doporučujeme objednávku alespoň 3-5 dní dopředu, pro svatby a větší akce ideálně 2-4 týdny dopředu."
+      },
+      "cateringDietary": {
+        "question": "Připravujete jídlo pro vegetariány nebo lidi s alergiemi?",
+        "answer": "Ano, rádi přizpůsobíme menu Vašim stravovacím požadavkům. Stačí nás při objednávce informovat o všech omezeních."
+      },
+      "cateringService": {
+        "question": "Zajišťujete i obsluhu a vybavení na akci?",
+        "answer": "Ano, poskytujeme kompletní servis včetně profesionálního personálu, nádobí, stolního prádla a dekorací."
+      },
+      "bistroReservation": {
+        "question": "Je nutné rezervovat stůl v bistru?",
+        "answer": "Rezervace není nutná, ale doporučujeme ji zejména pro větší skupiny nebo během obědové špičky (11:30-13:00)."
+      },
+      "bistroHours": {
+        "question": "Jaká jsou otevírací doba Vašich bister?",
+        "answer": "Bistro BUDEX: 7:30-15:00, Bistro Plynárna: 7:30-13:30. Denní menu podáváme do vyprodání zásob."
+      },
+      "bistroMenu": {
+        "question": "Jak často se mění denní menu?",
+        "answer": "Denní menu připravujeme čerstvě každý den s důrazem na sezónní suroviny a pestrost pokrmů."
+      },
+      "deliveryArea": {
+        "question": "Kam rozvážíte jídlo?",
+        "answer": "Rozvážíme po celých Českých Budějovicích a blízkém okolí. Pro vzdálenější lokality nás kontaktujte pro individuální domluvu."
+      },
+      "deliveryTime": {
+        "question": "V kolik hodin rozvážíte obědy?",
+        "answer": "Obědy rozvážíme mezi 11:00-13:00. Přesný čas dovozu upřesníme při objednávce podle Vaší lokality."
+      },
+      "deliveryFee": {
+        "question": "Kolik stojí rozvoz jídla?",
+        "answer": "Paušální poplatek za balení je 10 Kč bez ohledu na velikost objednávky - žádné skryté poplatky ani provize."
+      }
+    }
+  },
+  "collaboration": {
+    "title": "SPOLUPRÁCE"
+  },
+  "about": {
+    "title": "O NÁS",
+    "text1": "Připravujeme dobroty, díky kterým plesají chuťové pohárky.",
+    "text2": "Suroviny nešidíme, potraviny nenahrazujeme umělými dochucovadly. S námi víš, co jíš a ještě se raduješ z toho, jak pěkně to vypadá.",
+    "text3": "V jednoduchosti a kvalitě chutí je podle nás krása. A pokud máš citlivější trávení a potřebuješ všechny ty pochoutky trochu odlehčit, jsme připraveni ti vyjít maximálně vstříc, aby si naše jídlo užil opravdu každý!",
+    "team": "NÁŠ TÝM",
+    "teamSubtitle": "Připravujeme pro Vás dobroty a staráme se o Vás na cateringových akcích"
+  },
+  "cateringSplitCards": {
+    "wedding": {
+      "title": "SVATEBNÍ CATERING",
+      "excerpt": "Vytvoříme nezapomenutelný gastronomický zážitek pro Váš nejkrásnější den s důrazem na jedinečnost a osobní přístup.",
+      "cta": "Zjistit více"
+    },
+    "corporate": {
+      "title": "FIREMNÍ CATERING",
+      "excerpt": "Profesionální catering pro firemní akce, konference a teambuilding. Kvalitní jídlo, které podpoří úspěch Vaší akce."
+    }
+  },
+  "cateringCategories": {
+    "coldBuffet": "STUDENÝ RAUT",
+    "warmBuffet": "TEPLÝ BUFET",
+    "grilling": "GRILOVÁNÍ & BBQ",
+    "fingerFoods": "FINGER FOODS",
+    "sweetBar": "SWEET BAR",
+    "festiveHosting": "SLAVNOSTNÍ HOSTINA"
+  },
+  "workingPrinciples": {
+    "description": "Říkejte si, co chcete, svatby a podobné akce jsou minimálně z poloviny o jídle. A my si tuto zodpovědnost rádi bereme na sebe!\n\nMůžete počítat s osobním přístupem, zohledněním všech Vašich přání a stravovacích požadavků.",
+    "locality": {
+      "title": "LOKÁLNOST",
+      "description": "Pracujeme s místními dodavateli a farmáři, protože víme, že nejlepší chutě pocházejí z čerstvých surovin z našeho regionu."
+    },
+    "uniqueness": {
+      "title": "JEDINEČNOST",
+      "description": "Postaráme se o to, aby se na Vaši akci vzpomínalo jako na tu, kde hosté jedli dokonale. Nebo prostě vylepšíme obyčejný den výborným obědem."
+    },
+    "precision": {
+      "title": "PRECIZNOST",
+      "description": "Každý pokrm připravujeme s důrazem na detail a respektem k tradičním receptům, které kombinujeme s moderními technikami."
+    },
+    "service": {
+      "title": "SERVIS",
+      "description": "Skvělé jídlo krmí i oči, proto je originální servis dalším bodem, za kterým si stojíme."
+    }
+  },
+  "rozvoz": {
+    "hero": {
+      "title": "ZAJIŠŤUJEME DENNÍ STRAVOVÁNÍ",
+      "subtitle": "PRO ZAMĚSTNANCE PŘÍMO DO FIRMY"
+    },
+    "sections": {
+      "whyDelivery": "CHCETE SVŮJ TÝM POTĚŠIT",
+      "whyDeliverySubtitle": "KVALITNÍM OBĚDEM ZA ROZUMNOU CENU?",
+      "howItWorks": "JAK TO CELÉ FUNGUJE?",
+      "noCommission": "ŽÁDNÁ PROVIZE KURÝRA",
+      "noCommissionSubtitle": "U nás platíte férově pouze za oběd + paušální poplatek za balení 10 Kč."
+    },
+    "content": {
+      "text1": "Nemusíte se starat o nic navíc, jen si vyberte, na co máte chuť.",
+      "text2": "Každý den dovážíme teplé obědy v jednorázových boxech, nebo velké termo porce určené k samoobsluze."
+    },
+    "steps": {
+      "step1": {
+        "beforeLink": "Oběd si můžete jednoduše objednat v našem systému",
+        "linkText": "ZDE",
+        "afterLink": ""
+      },
+      "step2": {
+        "beforeHighlight": "Vyberete si z menu a kliknete na tlačítko",
+        "highlightText": "OBJEDNAT",
+        "afterHighlight": "."
+      },
+      "step3": {
+        "text": "Zadáte email."
+      },
+      "step4": {
+        "text": "Dokončíte registraci a vyplníte dodací adresu."
+      },
+      "step5": {
+        "beforeHighlight": "Poté zadáte své jméno, heslo, telefon a kliknete",
+        "highlightText": "VYTVOŘIT ÚČET",
+        "afterHighlight": "."
+      },
+      "step6": {
+        "text": "Máte objednáno a vytvořený účet."
+      }
+    },
+    "features": {
+      "invoicePayment": "Platba na fakturu",
+      "priceVisibility": "Viditelnost ceny rozdělení na dotovanou a placenou část",
+      "roleAssignment": "Přiřazení rolí a kompetencí Vašim strávníkům v objednávkovém systému",
+      "physicalTerminal": "Kromě webového rozhraní objednávkového systému nabízíme instalaci fyzického objednávkového a výdejního terminálu přímo ve vaší firmě"
+    },
+    "cta": {
+      "orderDelivery": "Objednat rozvoz"
+    }
+  },
+  "menuCta": {
+    "title": "AKTUÁLNÍ MENU",
+    "subtitle": "Objevte čerstvé speciality, které pro Vás každý den připravujeme"
+  },
+  "admin": {
+    "title": "ADMIN PANEL",
+    "login": {
+      "title": "ADMIN PŘIHLÁŠENÍ",
+      "email": "Email",
+      "password": "Heslo",
+      "emailPlaceholder": "vasmail@berryfood.cz",
+      "passwordPlaceholder": "••••••••",
+      "remember": "Zapamatovat přihlášení",
+      "submit": "Přihlásit se",
+      "submitting": "Přihlašování...",
+      "error": "Nesprávné přihlašovací údaje",
+      "generalError": "Chyba při přihlašování"
+    },
+    "upload": {
+      "title": "NAHRÁT MENU",
+      "fileLabel": "Soubor s menu (JPG, PNG, WebP, AVIF)",
+      "submit": "Nahrát menu",
+      "submitting": "Nahrávání...",
+      "success": "Denní menu bylo úspěšně nahráno!",
+      "error": "Chyba při nahrávání souboru",
+      "selectFile": "Vyberte soubor"
+    },
+    "logout": "Odhlásit se"
+  },
+  "mista": {
+    "hero": {
+      "title": "KDE MŮŽETE OCHUTNAT",
+      "subtitle": "NÁŠ CATERING?",
+      "description": "Během letní sezóny zaměřujeme svůj fokus na svatby a společenské události.\n\nMimo akce, na kterých se s námi můžeš domluvit, připravujeme catering v těchto letních resortech:"
+    },
+    "resorts": {
+      "stodola": {
+        "name": "STODOLA PLÁSTOVICE",
+        "text1": "Stodola Plástovice je <highlight>unikátní venkovní lokalita</highlight>, která harmonicky spojuje rustikální kouzlo s moderními prvky. Tento prostor nabízí ideální zázemí jak pro svatební obřady a hostiny ale i různé společenské akce.",
+        "text2": "Svatební obřad lze uspořádat v několika malebných zákoutích areálu, včetně prostorného ovocného sadu. Slavnostní hostiny se konají v moderně zrekonstruované stodole, kde tisíce světélek vytvářejí <highlight>kouzelnou romantickou atmosféru</highlight>, díky které se budete cítit jako ve snu.",
+        "text3": "Stodola je uzpůsobena na slavnostní tabuli, nebo i raut a disponuje vlastním kompletním vybavením, barem i dostatkem místa pro hudbu a večerní tanec.",
+        "text4": "Svou útulností Vás překvapí i naše pokoje pro hosty s kapacitou až <highlight>32 lůžek</highlight>. Řekněte nám své ANO."
+      },
+      "aloha": {
+        "name": "ALOHA BAR HLUBOKÁ NAD VLTAVOU",
+        "text1": "Pozornost snoubenců si právem získávají nové nevšední prostory Aloha baru na <highlight>Hluboké nad Vltavou</highlight>.",
+        "text2": "Letní, až <highlight>přímořská atmosféra</highlight> s nedalekou pláží na břehu řeky.",
+        "text3": "Bar nabízí až <highlight>300 zastřešených míst</highlight> k sezení. Od formálního posezení pod beduínským stanem až po ležérní relaxační lehátka položená na jemném bílém písku.",
+        "text4": "Novomanželé se mohou projet člunem s výhledem na romantický zámek Hluboká, nebo mohou svatebním hostům zpestřit večerní zábavu <highlight>minigolfem</highlight>."
+      },
+      "strizovicky": {
+        "name": "STŘÍŽOVICKÝ DVŮR",
+        "text1": "Tohle krásné stavení se nachází v turisticky atraktivní lokalitě Jindřichohradecka známé také jako <highlight>Česká Kanada</highlight>.",
+        "text2": "Díky nezaměnitelné romantické atmosféře, která z místa vysloveně sálá a přilehlé zrekonstruované stodole, je Střížovický dvůr jako stvořený pro pořádání <highlight>svateb i různých oslav</highlight>."
+      },
+      "horecky": {
+        "name": "HORECKÝ DVŮR",
+        "text1": "Horecký dvůr na Vysočině je dokonalým místem pro Váš <highlight>svatební den</highlight>.",
+        "text2": "<highlight>Historická atmosféra z roku 1830</highlight>, stylová stodola pro <highlight>90 hostů</highlight> s barem a gastro kuchyní, a malebná alej, která Vás k ní přivede – to vše vytváří jedinečné prostředí plné romantiky.",
+        "text3": "Celý areál nabízí maximální soukromí, možnost obřadu přímo na místě, luxusní svatební apartmá a terasu ideální pro tanec pod širým nebem. Díky své poloze mimo ruch města si užijete <highlight>ničím nerušenou oslavu až do pozdních hodin</highlight>.",
+        "text4": "Zvolte Horecký dvůr a my v Berry Food Catering se postaráme o dokonalé menu, které podtrhne jedinečnost tohoto výjimečného dne."
+      },
+      "nastrani": {
+        "name": "RESTAURACE NA STRÁNI",
+        "text1": "Restaurace Na Stráni na Dobré Vodě u Českých Budějovic nabízí ideální kombinaci moderního stylu a špičkového gastro zážitku.",
+        "text2": "S kapacitou více než <highlight>200 hostů</highlight> a pohodlným parkováním pro více než 100 aut je perfektním místem nejen pro svatby, ale i pro firemní akce nebo společenské události.",
+        "text3": "Kromě příjemných prostor zajistíme <highlight>kompletní servis na míru</highlight> – od vynikajícího rautu přes profesionální obsluhu až po živou hudbu nebo umělecká vystoupení. V Berry Food Catering pro Vás připravíme dokonalé menu, které povýší Váš slavnostní den na nezapomenutelný zážitek."
+      }
+    },
+    "common": {
+      "visitWebsite": "Navštívit web",
+      "resortNumber": "Resort {{number}} z {{total}}"
+    }
+  },
+  "common": {
+    "loading": "Načítání...",
+    "close": "Zavřít",
+    "back": "Zpět",
+    "next": "Další",
+    "previous": "Předchozí",
+    "showMore": "Zobrazit více",
+    "showAll": "Zobrazit všech {{count}} fotek",
+    "gallery": "Galerie",
+    "zoomIn": "Přiblížit",
+    "required": "*"
+  }
+}

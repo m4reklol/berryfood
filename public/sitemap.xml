@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://berryfood.cz/</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/"/>
+  </url>
+  
+  <!-- Catering pages -->
+  <url>
+    <loc>https://berryfood.cz/catering</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/catering"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/catering"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/catering"/>
+  </url>
+  <url>
+    <loc>https://berryfood.cz/catering/svatby</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/catering/svatby"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/catering/weddings"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/catering/svatby"/>
+  </url>
+  <url>
+    <loc>https://berryfood.cz/catering/firemni</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/catering/firemni"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/catering/corporate"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/catering/firemni"/>
+  </url>
+  
+  <!-- Delivery -->
+  <url>
+    <loc>https://berryfood.cz/rozvoz</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/rozvoz"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/delivery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/rozvoz"/>
+  </url>
+  
+  <!-- Bistros -->
+  <url>
+    <loc>https://berryfood.cz/bistra/budex</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/bistra/budex"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/bistros/budex"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/bistra/budex"/>
+  </url>
+  <url>
+    <loc>https://berryfood.cz/bistra/plynarna</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/bistra/plynarna"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/bistros/plynarna"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/bistra/plynarna"/>
+  </url>
+  
+  <!-- Locations -->
+  <url>
+    <loc>https://berryfood.cz/mista</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/mista"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/venues"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/mista"/>
+  </url>
+  
+  <!-- Menu -->
+  <url>
+    <loc>https://berryfood.cz/menu</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/menu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/menu"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/menu"/>
+  </url>
+  
+  <!-- Contact -->
+  <url>
+    <loc>https://berryfood.cz/kontakt</loc>
+    <lastmod>2025-01-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://berryfood.cz/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://berryfood.cz/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://berryfood.cz/kontakt"/>
+  </url>
+</urlset>
