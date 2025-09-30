@@ -129,7 +129,7 @@ const Kontakt = () => {
               {/* Google Maps for BUDEX */}
               <div className="bg-white rounded-2xl overflow-hidden">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2569.8!2d14.4747!3d48.9685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b4f8b8b8b8b8b%3A0x8b8b8b8b8b8b8b8b!2zUGxhbsOhIDY3LCAzNzAgMDEgxIxlc2vDqSBCdWTEm2pvdmljZQ!5e0!3m2!1scs!2scz!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d735.379029589041!2d14.451682404261406!3d48.942194221455466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477345579f265001%3A0x55b8bfd45e28e8b0!2zUGxhbsOhIDY3LCAzNzAgMDEgUGxhbsOh!5e0!3m2!1scs!2scz!4v1759252968505!5m2!1scs!2scz"
                   width="100%"
                   height="250"
                   style={{ border: 0 }}
@@ -213,7 +213,7 @@ const Kontakt = () => {
               {/* Google Maps for Plynárna */}
               <div className="bg-white rounded-2xl overflow-hidden">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2569.5!2d14.4658!3d48.9742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b4f8b8b8b8b8c%3A0x8b8b8b8b8b8b8b8c!2zVnJiZW5za8OhIDIvMmIsIDM3MCAwMSDEjGVza8OpIEJ1ZMSbam92aWNl!5e0!3m2!1scs!2scz!4v1234567891"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2618.8455573134142!2d14.489293476471145!3d48.975464271348216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47734fb400a5623d%3A0x9835c9414bd3a4af!2zVnJiZW5za8OhIDIvMiwgMzcwIDA1IMSMZXNrw6kgQnVkxJtqb3ZpY2UgNQ!5e0!3m2!1scs!2scz!4v1759253098953!5m2!1scs!2scz"
                   width="100%"
                   height="250"
                   style={{ border: 0 }}

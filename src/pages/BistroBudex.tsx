@@ -919,7 +919,7 @@ const BistroBudex = () => {
           <div className="mt-12 lg:mt-16">
             <div className="bg-white rounded-3xl p-6 lg:p-8 shadow-lg border border-gray-100">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.123456789!2d14.4567890123456!3d48.9876543210987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDjCsDU5JzE1LjYiTiAxNMKwMjcnMjQuNCJF!5e0!3m2!1scs!2scz!4v1234567890123"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d735.379029589041!2d14.451682404261406!3d48.942194221455466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477345579f265001%3A0x55b8bfd45e28e8b0!2zUGxhbsOhIDY3LCAzNzAgMDEgUGxhbsOh!5e0!3m2!1scs!2scz!4v1759252968505!5m2!1scs!2scz"
                 width="100%"
                 height="400"
                 style={{ border: 0 }}
