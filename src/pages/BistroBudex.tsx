@@ -762,16 +762,6 @@ const BistroBudex = () => {
         </div>
       )}
 
-      {/* Menu CTA Section */}
-      <MenuCTA />
-
-      {/* Contact Form Section */}
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-[#F8F5F0] via-white to-[#F5F1EB]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <ContactForm />
-        </div>
-      </section>
-
       {/* Contact & Map Section */}
       <section className="py-16 lg:py-24 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -941,6 +931,16 @@ const BistroBudex = () => {
               ></iframe>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* Menu CTA Section */}
+      <MenuCTA />
+
+      {/* Contact Form Section */}
+      <section className="py-16 lg:py-24 bg-gradient-to-br from-[#F8F5F0] via-white to-[#F5F1EB]">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <ContactForm />
         </div>
       </section>
     </div>
