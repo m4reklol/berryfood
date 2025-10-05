@@ -34,7 +34,7 @@
     "bistros": "Bistra",
     "budex": "Bistro BUDEX",
     "plynarna": "Bistro Plynárna",
-    "locations": "Kde nás ochutnat",
+    "locations": "Kde nás ochutnáte",
     "menu": "Menu",
     "contact": "Kontakt"
   },
@@ -58,7 +58,7 @@
       "description": "Bistro Plynárna na Vrbenské ulici v Českých Budějovicích. Domácí obědy, snídaně a dezerty v prostorách bývalé plynárny.",
       "hero": {
         "title": "BISTRO PLYNÁRNA",
-        "subtitle": "Jsme obědová restaurace v prostorách bývalé plynárny na Vrbenské ulici. Připravujeme obědy pro všechny, kteří stojí o domácí nešizenou stravu jako každodenní standard. Také nabízíme kantýnové produkty v podobě nabušených snídaní a svačin.",
+        "subtitle": "Jsme bistro, které se stará o denní stravování od snídaně až do obědového menu.",
         "cta": "Prohlédnout menu"
       },
       "sections": {
@@ -84,7 +84,7 @@
         "specialties": "SPECIALITY",
         "specialtiesDesc": "Zahraniční i české klasiky",
         "desserts": "DEZERTY",
-        "dessertsDesc": "Vlastní limonády a sladkosti"
+        "dessertsDesc": "Vlastní limonády a sladké pečení"
       },
       "dailyMenu": "Naše denní nabídka se skládá ze 3–4 jídel a polévky. Milovníky sladkého potěšíme například buchtičkami se šodó či domácími ovocnými knedlíky. Díky našemu šéfkuchaři se můžete těšit i na speciální příležitosti jako oslavu dne svatého Martina s propečenou husou.",
       "breakfastDescription": "Ráno dělá den, proto si ho můžete přijít zpříjemnit pořádnou snídaní! Ať už fandíte sladké, nebo slané chuti, dopolední hlad už Vás nemůže zaskočit.",
@@ -116,7 +116,7 @@
       "description": "Svatební catering s důrazem na jedinečnost a osobní přístup. Vytvoříme nezapomenutelný gastronomický zážitek pro váš nejkrásnější den.",
       "hero": {
         "title": "SVATEBNÍ CATERING",
-        "subtitle": "Na svatbě záleží na každém detailu – a jídlo je jedním z těch nejdůležitějších."
+        "subtitle": "Láska prochází žaludkem… a během svatby to platí obzvlášť."
       },
       "intro": {
         "highlight": "Připravujeme dobroty, díky kterým plesají chuťové pohárky.",
@@ -124,9 +124,9 @@
         "text2": "V jednoduchosti a kvalitě chutí je podle nás krása. A pokud máš citlivější trávení a potřebuješ všechny ty pochoutky trochu odlehčit, jsme připraveni ti vyjít maximálně vstříc, aby si naše jídlo užil opravdu každý!"
       },
       "sections": {
-        "whyChooseUs": "PROČ SI VYBRAT NÁS",
-        "whatToExpect": "CO MŮŽETE OČEKÁVAT",
-        "howWeWork": "JAK PRACUJEME",
+        "whyChooseUs": "PROČ JÍT DO SVATEBNÍCH OSLAV S NÁMI?",
+        "whatToExpect": "NA CO SE MŮŽETE TĚŠIT?",
+        "howWeWork": "NA ČEM STAVÍME",
         "finalCta": "PŘIPRAVENI NA SVATEBNÍ MENU VAŠICH SNŮ?",
         "finalCtaSubtitle": "Kontaktujte nás pro nezávaznou konzultaci a společně vytvoříme catering pro Váš nejkrásnější den"
       },
@@ -142,7 +142,7 @@
       "description": "Profesionální catering pro firemní akce, konference a teambuilding. Kvalitní jídlo, které podpoří úspěch Vaší akce.",
       "hero": {
         "title": "FIREMNÍ CATERING",
-        "subtitle": "Profesionální catering pro firemní akce, který podpoří úspěch Vaší akce."
+        "subtitle": "Profesionální catering, který zpříjemní atmosféru každé firemní akce a inspiruje k těm nejlepším nápadům."
       },
       "intro": {
         "highlight": "Znamenitý catering není pouze o dokonalé symbióze chutí.",
@@ -155,7 +155,7 @@
         "occasions": "PŘÍLEŽITOSTI",
         "foodTypes": "TYPY JÍDEL",
         "howWeWork": "JAK PRACUJEME",
-        "finalCta": "PŘIPRAVENI VYTVOŘIT FIREMNÍ AKCI NA MÍRU?",
+        "finalCta": "PŘIPRAVENI S NÁMI VYTVOŘIT FIREMNÍ AKCI NA MÍRU?",
         "finalCtaSubtitle": "Kontaktujte nás pro nezávaznou konzultaci a společně vytvoříme catering pro Vaši firemní akci"
       },
       "occasions": {
@@ -170,7 +170,7 @@
       "description": "Aktuální menu s čerstvě připravenými pokrmy. Denní menu z kvalitních surovin.",
       "hero": {
         "title": "MENU",
-        "subtitle": "Čerstvě připravené pokrmy každý den"
+        "subtitle": "Čerstvě připravené obědy pro Váš kvalitnější den."
       },
       "refresh": "Obnovit",
       "notUploaded": "Denní menu ještě nebylo nahráno.",
@@ -188,12 +188,12 @@
         "whyDelivery": "CHCETE SVŮJ TÝM POTĚŠIT",
         "whyDeliverySubtitle": "KVALITNÍM OBĚDEM ZA ROZUMNOU CENU?",
         "howItWorks": "JAK TO CELÉ FUNGUJE?",
-        "noCommission": "ŽÁDNÁ PROVIZE KURÝRA",
+        "noCommission": "ŽÁDNÁ PROVIZE KURÝROVI",
         "noCommissionSubtitle": "U nás platíte férově pouze za oběd + paušální poplatek za balení 10 Kč."
       },
       "content": {
         "text1": "Nemusíte se starat o nic navíc, jen si vyberte, na co máte chuť.",
-        "text2": "Každý den dovážíme teplé obědy v jednorázových boxech, nebo velké termo porce určené k samoobsluze."
+        "text2": "Každý den dovážíme teplé obědy v jednorázových boxech, nebo ve velkých termo boxech určených k samoobsluze."
       },
       "steps": {
         "step1": "Oběd si můžete jednoduše objednat v našem systému ZDE",
@@ -208,9 +208,9 @@
       },
       "features": {
         "invoicePayment": "Platba na fakturu",
-        "priceVisibility": "Viditelnost ceny rozdělení na dotovanou a placenou část",
+        "priceVisibility": "Transparentnost ceny: rozdělení na dotovanou a placenou část",
         "roleAssignment": "Přiřazení rolí a kompetencí Vašim strávníkům v objednávkovém systému",
-        "physicalTerminal": "Kromě webového rozhraní objednávkového systému nabízíme instalaci fyzického objednávkového a výdejního terminálu přímo ve vaší firmě"
+        "physicalTerminal": "Kromě webového rozhraní objednávkového systému nabízíme instalaci fyzického objednávkového a výdejního terminálu přímo ve Vaší firmě"
       }
     },
     "locations": {
@@ -425,7 +425,7 @@
     "text2": "Suroviny nešidíme, potraviny nenahrazujeme umělými dochucovadly. S námi víš, co jíš a ještě se raduješ z toho, jak pěkně to vypadá.",
     "text3": "V jednoduchosti a kvalitě chutí je podle nás krása. A pokud máš citlivější trávení a potřebuješ všechny ty pochoutky trochu odlehčit, jsme připraveni ti vyjít maximálně vstříc, aby si naše jídlo užil opravdu každý!",
     "team": "NÁŠ TÝM",
-    "teamSubtitle": "Připravujeme pro Vás dobroty a staráme se o Vás na cateringových akcích"
+    "teamSubtitle": "Vaříme pro Vás s láskou, pečujeme o Vás na cateringových akcích"
   },
   "cateringSplitCards": {
     "wedding": {
@@ -447,14 +447,14 @@
     "festiveHosting": "SLAVNOSTNÍ HOSTINA"
   },
   "workingPrinciples": {
-    "description": "Říkejte si, co chcete, svatby a podobné akce jsou minimálně z poloviny o jídle. A my si tuto zodpovědnost rádi bereme na sebe!\n\nMůžete počítat s osobním přístupem, zohledněním všech Vašich přání a stravovacích požadavků.",
+    "description": "Ať si říká kdo chce, co chce, svatební den a další společenské události jsou minimálně z poloviny o jídle.\n\nMůžete počítat s osobním přístupem, zohledněním všech Vašich přání a stravovacích požadavků.",
     "locality": {
       "title": "LOKÁLNOST",
       "description": "Pracujeme s místními dodavateli a farmáři, protože víme, že nejlepší chutě pocházejí z čerstvých surovin z našeho regionu."
     },
     "uniqueness": {
       "title": "JEDINEČNOST",
-      "description": "Postaráme se o to, aby se na Vaši akci vzpomínalo jako na tu, kde hosté jedli dokonale. Nebo prostě vylepšíme obyčejný den výborným obědem."
+      "description": "Postaráme se o to, aby se na Vaší akci vzpomínalo jako na tu, kde se hosté dokonale najedli. Nebo zkrátka jen vylepšíme obyčejný den výborným obědem."
     },
     "precision": {
       "title": "PRECIZNOST",
@@ -474,12 +474,12 @@
       "whyDelivery": "CHCETE SVŮJ TÝM POTĚŠIT",
       "whyDeliverySubtitle": "KVALITNÍM OBĚDEM ZA ROZUMNOU CENU?",
       "howItWorks": "JAK TO CELÉ FUNGUJE?",
-      "noCommission": "ŽÁDNÁ PROVIZE KURÝRA",
+      "noCommission": "ŽÁDNÁ PROVIZE KURÝROVI",
       "noCommissionSubtitle": "U nás platíte férově pouze za oběd + paušální poplatek za balení 10 Kč."
     },
     "content": {
       "text1": "Nemusíte se starat o nic navíc, jen si vyberte, na co máte chuť.",
-      "text2": "Každý den dovážíme teplé obědy v jednorázových boxech, nebo velké termo porce určené k samoobsluze."
+      "text2": "Každý den dovážíme teplé obědy v jednorázových boxech, nebo ve velkých termo boxech určených k samoobsluze."
     },
     "steps": {
       "step1": {
@@ -509,9 +509,9 @@
     },
     "features": {
       "invoicePayment": "Platba na fakturu",
-      "priceVisibility": "Viditelnost ceny rozdělení na dotovanou a placenou část",
+      "priceVisibility": "Transparentnost ceny: rozdělení na dotovanou a placenou část",
       "roleAssignment": "Přiřazení rolí a kompetencí Vašim strávníkům v objednávkovém systému",
-      "physicalTerminal": "Kromě webového rozhraní objednávkového systému nabízíme instalaci fyzického objednávkového a výdejního terminálu přímo ve vaší firmě"
+      "physicalTerminal": "Kromě webového rozhraní objednávkového systému nabízíme instalaci fyzického objednávkového a výdejního terminálu přímo ve Vaší firmě"
     },
     "cta": {
       "orderDelivery": "Objednat rozvoz"

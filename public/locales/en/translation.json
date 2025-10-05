@@ -58,7 +58,7 @@
       "description": "Bistro Plynárna on Vrbenská street in České Budějovice. Homemade lunches, breakfasts and desserts in former gas plant premises.",
       "hero": {
         "title": "BISTRO PLYNÁRNA",
-        "subtitle": "We are a lunch restaurant in the premises of a former gas plant on Vrbenská street. We prepare lunches for everyone who wants honest homemade food as a daily standard. We also offer canteen products in the form of hearty breakfasts and snacks.",
+        "subtitle": "We are a bistro that takes care of daily dining, from breakfast all the way to lunch.",
         "cta": "View menu"
       },
       "sections": {
@@ -84,7 +84,7 @@
         "specialties": "SPECIALTIES",
         "specialtiesDesc": "International and Czech classics",
         "desserts": "DESSERTS",
-        "dessertsDesc": "Our own lemonades and sweets"
+        "dessertsDesc": "Homemade lemonades and sweet pastries"
       },
       "dailyMenu": "Our daily menu consists of 3-4 dishes and soup. We delight sweet lovers with, for example, buns with custard or homemade fruit dumplings. Thanks to our chef, you can also look forward to special occasions like celebrating St. Martin's Day with roasted goose.",
       "breakfastDescription": "Morning makes the day, so you can come and make it more pleasant with a proper breakfast! Whether you're a fan of sweet or savory taste, morning hunger can no longer catch you off guard.",
@@ -116,7 +116,7 @@
       "description": "Wedding catering with emphasis on uniqueness and personal approach. We'll create an unforgettable gastronomic experience for your most beautiful day.",
       "hero": {
         "title": "WEDDING CATERING",
-        "subtitle": "Every detail matters at a wedding – and food is one of the most important."
+        "subtitle": "Love goes through the stomach… and during a wedding, that’s especially true."
       },
       "intro": {
         "highlight": "We prepare delicacies that make taste buds dance with joy.",
@@ -124,9 +124,9 @@
         "text2": "We believe that beauty lies in simplicity and quality of flavors. And if you have sensitive digestion and need all those delicacies a bit lighter, we're ready to accommodate you as much as possible, so everyone can truly enjoy our food!"
       },
       "sections": {
-        "whyChooseUs": "WHY CHOOSE US",
-        "whatToExpect": "WHAT TO EXPECT",
-        "howWeWork": "HOW WE WORK",
+        "whyChooseUs": "WHY CELEBRATE YOUR WEDDING WITH US?",
+        "whatToExpect": "WHAT CAN YOU LOOK FORWARD TO?",
+        "howWeWork": "OUR PRINCIPLES",
         "finalCta": "READY FOR YOUR DREAM WEDDING MENU?",
         "finalCtaSubtitle": "Contact us for a non-binding consultation and together we'll create catering for your most beautiful day"
       },
@@ -142,7 +142,7 @@
       "description": "Professional catering for corporate events, conferences and team building. Quality food that will support the success of your event.",
       "hero": {
         "title": "CORPORATE CATERING",
-        "subtitle": "Professional catering for corporate events that will support the success of your event."
+        "subtitle": "Professional catering that enhances the atmosphere of every corporate event and inspires the best ideas."
       },
       "intro": {
         "highlight": "Excellent catering is not just about perfect flavor harmony.",
@@ -155,7 +155,7 @@
         "occasions": "OCCASIONS",
         "foodTypes": "FOOD TYPES",
         "howWeWork": "HOW WE WORK",
-        "finalCta": "READY TO CREATE A TAILORED CORPORATE EVENT?",
+        "finalCta": "READY TO CREATE A TAILOR-MADE CORPORATE EVENT WITH US?",
         "finalCtaSubtitle": "Contact us for a non-binding consultation and together we'll create catering for your corporate event"
       },
       "occasions": {
@@ -170,7 +170,7 @@
       "description": "Current menu with freshly prepared dishes. Daily menu from quality ingredients.",
       "hero": {
         "title": "MENU",
-        "subtitle": "Freshly prepared dishes every day"
+        "subtitle": "Freshly prepared lunches for a better day."
       },
       "refresh": "Refresh",
       "notUploaded": "Daily menu has not been uploaded yet.",
@@ -188,12 +188,12 @@
         "whyDelivery": "DO YOU WANT TO TREAT YOUR TEAM",
         "whyDeliverySubtitle": "TO QUALITY LUNCH AT A REASONABLE PRICE?",
         "howItWorks": "HOW DOES IT ALL WORK?",
-        "noCommission": "NO COURIER COMMISSION",
+        "noCommission": "NO COMMISSION TO THE COURIER",
         "noCommissionSubtitle": "With us, you pay fairly only for lunch + flat packaging fee of 10 CZK."
       },
       "content": {
         "text1": "You don't have to worry about anything extra, just choose what you fancy.",
-        "text2": "Every day we deliver hot lunches in disposable boxes, or large thermo portions intended for self-service."
+        "text2": "Every day we deliver hot lunches in single-use boxes or in large thermal boxes designed for self-service."
       },
       "steps": {
         "step1": "Lunch can be easily ordered in our system HERE",
@@ -208,7 +208,7 @@
       },
       "features": {
         "invoicePayment": "Invoice payment",
-        "priceVisibility": "Price visibility division into subsidized and paid part",
+        "priceVisibility": "Price transparency: breakdown into subsidized and paid part",
         "roleAssignment": "Role and competence assignment to your diners in the ordering system",
         "physicalTerminal": "In addition to the web interface of the ordering system, we offer installation of a physical ordering and dispensing terminal directly in your company"
       }
@@ -425,7 +425,7 @@
     "text2": "We don't cheat with ingredients, we don't replace food with artificial flavorings. With us, you know what you're eating and you still enjoy how beautifully it looks.",
     "text3": "We believe that beauty lies in simplicity and quality of flavors. And if you have sensitive digestion and need all those delicacies a bit lighter, we're ready to accommodate you as much as possible, so everyone can truly enjoy our food!",
     "team": "OUR TEAM",
-    "teamSubtitle": "We prepare delicacies for you and take care of you at catering events"
+    "teamSubtitle": "We cook for you with love and take care of you at catering events"
   },
   "cateringSplitCards": {
     "wedding": {
@@ -447,14 +447,14 @@
     "festiveHosting": "FESTIVE HOSTING"
   },
   "workingPrinciples": {
-    "description": "Say what you will, weddings and similar events are at least half about food. And we gladly take this responsibility upon ourselves!\n\nYou can count on a personal approach, taking into account all your wishes and dietary requirements.",
+    "description": "No matter what anyone says, weddings and other social events are at least half about the food.\n\nYou can count on a personal approach, taking into account all your wishes and dietary requirements.",
     "locality": {
       "title": "LOCALITY",
       "description": "We work with local suppliers and farmers because we know that the best flavors come from fresh ingredients from our region."
     },
     "uniqueness": {
       "title": "UNIQUENESS",
-      "description": "We'll make sure your event is remembered as the one where guests ate perfectly. Or we'll simply improve an ordinary day with an excellent lunch."
+      "description": "We’ll make sure your event is remembered as the one where guests enjoyed an unforgettable meal. Or we’ll simply brighten up an ordinary day with a delicious lunch."
     },
     "precision": {
       "title": "PRECISION",
@@ -474,12 +474,12 @@
       "whyDelivery": "DO YOU WANT TO TREAT YOUR TEAM",
       "whyDeliverySubtitle": "TO QUALITY LUNCH AT A REASONABLE PRICE?",
       "howItWorks": "HOW DOES IT ALL WORK?",
-      "noCommission": "NO COURIER COMMISSION",
+      "noCommission": "NO COMMISSION TO THE COURIER",
       "noCommissionSubtitle": "With us, you pay fairly only for lunch + flat packaging fee of 10 CZK."
     },
     "content": {
       "text1": "You don't have to worry about anything extra, just choose what you fancy.",
-      "text2": "Every day we deliver hot lunches in disposable boxes, or large thermo portions intended for self-service."
+      "text2": "Every day we deliver hot lunches in single-use boxes or in large thermal boxes designed for self-service."
     },
     "steps": {
       "step1": {
@@ -509,7 +509,7 @@
     },
     "features": {
       "invoicePayment": "Invoice payment",
-      "priceVisibility": "Price visibility division into subsidized and paid part",
+      "priceVisibility": "Price transparency: breakdown into subsidized and paid part",
       "roleAssignment": "Role and competence assignment to your diners in the ordering system",
       "physicalTerminal": "In addition to the web interface of the ordering system, we offer installation of a physical ordering and dispensing terminal directly in your company"
     },

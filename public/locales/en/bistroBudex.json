@@ -19,10 +19,10 @@
     "availability": "ACCESSIBILITY",
     "atmosphere": "ATMOSPHERE",
     "contact": "CONTACT",
-    "findUs": "FIND US"
+    "findUs": "HOW TO FIND US"
   },
   "content": {
-    "facilitiesIntro": "It's not just about tables and chairs here. Ideas are born here. You can expect an environment where everything is prepared to make your event unforgettable.",
+    "facilitiesIntro": "With us, it’s not just about tables and chairs. With us, ideas are born. You’ll find an environment where everything is prepared for your event to flow smoothly and for your guests to feel truly comfortable.",
     "signatureParagraph": "We know that good food is part of good cooperation. Therefore, as part of every event, count on exquisite catering tailored to your needs, prepared by the Berry Food team.",
     "experiencesIntro": "At Bistro BUDEX, we combine professional facilities with an atmosphere where you can work and have fun – you can expect an environment that inspires and tastes that are unforgettable.",
     "mapTitle": "Map - Bistro BUDEX"
@@ -31,7 +31,7 @@
     "menuServices": [
       {
         "title": "LUNCHES & CAFÉ",
-        "description": "The space offers daily visits for up to <span class=\"font-semibold text-[var(--color-primary)]\">50 regular diners</span>, including a diverse lunch menu and <span class=\"font-semibold text-[var(--color-primary)]\">café with pastry shop</span> operation, which attracts with <span class=\"font-semibold text-[var(--color-primary)]\">quality coffee and fresh desserts</span>."
+        "description": "The space offers daily dining for up to <span class=\"font-semibold text-[var(--color-primary)]\">100 new guests</span>, with more than just a diverse lunch menu. <span class=\"font-semibold text-[var(--color-primary)]\">The café and pastry shop</span> entice with <span class=\"font-semibold text-[var(--color-primary)]\">quality coffee beans and homemade desserts</span>."
       },
       {
         "title": "BUSINESS EVENTS",

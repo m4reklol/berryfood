@@ -19,10 +19,10 @@
     "availability": "DOSTUPNOST",
     "atmosphere": "ATMOSFÉRA",
     "contact": "KONTAKT",
-    "findUs": "NAJDETE NÁS"
+    "findUs": "KUDY K NÁM"
   },
   "content": {
-    "facilitiesIntro": "U nás nejde jen o stoly a židle. U nás se rodí nápady. Čeká Vás prostředí, kde je vše připravené na to, aby Vaše akce byla nezapomenutelná.",
+    "facilitiesIntro": "U nás nejde jen o stoly a židle. U nás se rodí nápady. Čeká Vás prostředí, kde je vše připravené na to, aby Vaše akce krásně plynula a hosté se cítili skvěle.",
     "signatureParagraph": "Víme, že dobré jídlo je součástí dobré spolupráce. Proto jako součást každé akce počítejte s vymazleným cateringem na míru, připraveným týmem Berry Food.",
     "experiencesIntro": "V Bistru BUDEX spojujeme profesionální zázemí s atmosférou, kde se skvěle pracuje i baví – čeká Vás prostředí, které inspiruje, a chutě, na které se nezapomíná.",
     "mapTitle": "Mapa - Bistro BUDEX"
@@ -31,7 +31,7 @@
     "menuServices": [
       {
         "title": "OBĚDY & KAVÁRNA",
-        "description": "Prostor nabízí každodenní návštěvy až pro <span class=\"font-semibold text-[var(--color-primary)]\">50 stálých strávníků</span>, a to včetně pestré nabídky obědového menu i provozu <span class=\"font-semibold text-[var(--color-primary)]\">kavárny s cukrárnou</span>, která láká na <span class=\"font-semibold text-[var(--color-primary)]\">kvalitní kávu a čerstvé dezerty</span>."
+        "description": "Prostor nabízí každodenní stravování až pro <span class=\"font-semibold text-[var(--color-primary)]\">100 nových strávníků</span>, a to nejen pestrou nabídkou obědového menu. <span class=\"font-semibold text-[var(--color-primary)]\">Kavárna s cukrárnou</span> láká <span class=\"font-semibold text-[var(--color-primary)]\">kvalitními kávovými zrny a domácími dezerty</span>."
       },
       {
         "title": "BUSINESS AKCE",
