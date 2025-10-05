@@ -31,15 +31,15 @@
     "menuServices": [
       {
         "title": "OBĚDY & KAVÁRNA",
-        "description": "Prostor nabízí každodenní stravování až pro <span class=\"font-semibold text-[var(--color-primary)]\">100 nových strávníků</span>, a to nejen pestrou nabídkou obědového menu. <span class=\"font-semibold text-[var(--color-primary)]\">Kavárna s cukrárnou</span> láká <span class=\"font-semibold text-[var(--color-primary)]\">kvalitními kávovými zrny a domácími dezerty</span>."
+        "description": "Prostor nabízí každodenní stravování až pro <span class=\"font-semibold text-[var(--color-primary)]\">100 nových strávníků</span>, a\u00A0to nejen pestrou nabídkou obědového menu. <span class=\"font-semibold text-[var(--color-primary)]\">Kavárna s\u00A0cukrárnou</span> láká <span class=\"font-semibold text-[var(--color-primary)]\">kvalitními kávovými zrny a\u00A0domácími dezerty</span>."
       },
       {
         "title": "BUSINESS AKCE",
-        "description": "V průběhu dne lze prostor využít také pro <span class=\"font-semibold text-[var(--color-primary)]\">kreativní brunche</span>, <span class=\"font-semibold text-[var(--color-primary)]\">firemní prezentace</span> či přátelská setkání při uvítání hostů, a to v příjemné atmosféře, která podporuje <span class=\"font-semibold text-[var(--color-primary)]\">neformální networking</span> i <span class=\"font-semibold text-[var(--color-primary)]\">tvůrčí nápady</span>."
+        "description": "V\u00A0průběhu dne lze prostor využít také pro <span class=\"font-semibold text-[var(--color-primary)]\">kreativní brunche</span>, <span class=\"font-semibold text-[var(--color-primary)]\">firemní prezentace</span> či přátelská setkání při uvítání hostů, a\u00A0to v\u00A0příjemné atmosféře, která podporuje <span class=\"font-semibold text-[var(--color-primary)]\">neformální networking</span> i\u00A0<span class=\"font-semibold text-[var(--color-primary)]\">tvůrčí nápady</span>."
       },
       {
         "title": "VEČERNÍ AKCE",
-        "description": "Ve večerních hodinách se prostor proměňuje v ideální místo pro <span class=\"font-semibold text-[var(--color-primary)]\">firemní večírky</span>, <span class=\"font-semibold text-[var(--color-primary)]\">soukromé oslavy</span> nebo <span class=\"font-semibold text-[var(--color-primary)]\">tematické degustace</span>, kde si hosté mohou vychutnat <span class=\"font-semibold text-[var(--color-primary)]\">unikátní zážitky</span> spojené se <span class=\"font-semibold text-[var(--color-primary)]\">špičkovou gastronomií</span> a kvalitním servisem."
+        "description": "Ve\u00A0večerních hodinách se prostor proměňuje v\u00A0ideální místo pro <span class=\"font-semibold text-[var(--color-primary)]\">firemní večírky</span>, <span class=\"font-semibold text-[var(--color-primary)]\">soukromé oslavy</span> nebo <span class=\"font-semibold text-[var(--color-primary)]\">tematické degustace</span>, kde si hosté mohou vychutnat <span class=\"font-semibold text-[var(--color-primary)]\">unikátní zážitky</span> spojené se <span class=\"font-semibold text-[var(--color-primary)]\">špičkovou gastronomií</span> a\u00A0kvalitním servisem."
       }
     ],
     "facilities": [

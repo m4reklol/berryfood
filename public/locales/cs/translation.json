@@ -69,11 +69,11 @@
       },
       "features": {
         "honestLunches": "POCTIVÉ OBĚDY",
-        "honestLunchesDesc": "Každý všední den z čerstvých surovin bez kompromisů v kvalitě.",
+        "honestLunchesDesc": "Každý všední den z\u00A0čerstvých surovin bez kompromisů v\u00A0kvalitě.",
         "homemadeDesserts": "DOMÁCÍ DEZERTY",
-        "homemadeDessertsDesc": "Vlastní limonády a něco sladkého i slaného ke kávě.",
+        "homemadeDessertsDesc": "Vlastní limonády a\u00A0něco sladkého i\u00A0slaného ke\u00A0kávě.",
         "friendlyBistro": "PŘÁTELSKÉ BISTRO",
-        "friendlyBistroDesc": "Pro rychlý oběd i klidnější pauzu v příjemném prostředí."
+        "friendlyBistroDesc": "Pro rychlý oběd i\u00A0klidnější pauzu v\u00A0příjemném prostředí."
       },
       "lunchDescription": "Provoz kuchyně koresponduje s prioritou čerstvých surovin a originalitou. Nabízíme několik variant jídel, které jsou sestaveny tak, aby uspokojily co nejširší poptávku obědů.",
       "lunchTypes": {
@@ -450,19 +450,19 @@
     "description": "Ať si říká kdo chce, co chce, svatební den a další společenské události jsou minimálně z poloviny o jídle.\n\nMůžete počítat s osobním přístupem, zohledněním všech Vašich přání a stravovacích požadavků.",
     "locality": {
       "title": "LOKÁLNOST",
-      "description": "Pracujeme s místními dodavateli a farmáři, protože víme, že nejlepší chutě pocházejí z čerstvých surovin z našeho regionu."
+      "description": "Pracujeme s\u00A0místními dodavateli a farmáři, protože víme, že nejlepší chutě pocházejí z\u00A0čerstvých surovin z\u00A0našeho regionu."
     },
     "uniqueness": {
       "title": "JEDINEČNOST",
-      "description": "Postaráme se o to, aby se na Vaší akci vzpomínalo jako na tu, kde se hosté dokonale najedli. Nebo zkrátka jen vylepšíme obyčejný den výborným obědem."
+      "description": "Postaráme se o\u00A0to, aby se na Vaší akci vzpomínalo jako na tu, kde se hosté dokonale najedli. Nebo zkrátka jen vylepšíme obyčejný den výborným obědem."
     },
     "precision": {
       "title": "PRECIZNOST",
-      "description": "Každý pokrm připravujeme s důrazem na detail a respektem k tradičním receptům, které kombinujeme s moderními technikami."
+      "description": "Každý pokrm připravujeme s\u00A0důrazem na detail a respektem k\u00A0tradičním receptům, které kombinujeme s\u00A0moderními technikami."
     },
     "service": {
       "title": "SERVIS",
-      "description": "Skvělé jídlo krmí i oči, proto je originální servis dalším bodem, za kterým si stojíme."
+      "description": "Skvělé jídlo krmí i\u00A0oči, proto je originální servis dalším bodem, za\u00A0kterým se stojíme."
     }
   },
   "rozvoz": {
