@@ -14,15 +14,21 @@ const Rozvoz = () => {
       <div className="min-h-screen bg-[var(--color-bg)]">
         {/* Hero Section */}
         <section className="relative pt-24 pb-16 lg:pt-32 lg:pb-24 overflow-hidden min-h-[70vh] flex items-center">
-          {/* Background Image */}
+          {/* Background Media */}
           <div className="absolute inset-0 w-full h-full z-0">
-            <img
-              src="/herorozvoz.avif"
-              alt="Rozvoz jídel"
+            <video
               className="w-full h-full object-cover object-center"
-              loading="eager"
-            />
-            {/* Image Overlay */}
+              autoPlay
+              loop
+              muted
+              playsInline
+              preload="metadata"
+              poster="/herorozvoz.avif" // fallback still-frame while video buffers
+            >
+              <source src="/herorozvoz.webm" type="video/webm" />
+            </video>
+
+            {/* Overlay */}
             <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70 z-1"></div>
           </div>
           
