@@ -23,7 +23,6 @@ const Rozvoz = () => {
               muted
               playsInline
               preload="metadata"
-              poster="/herorozvoz.avif" // fallback still-frame while video buffers
             >
               <source src="/herorozvoz.webm" type="video/webm" />
             </video>
