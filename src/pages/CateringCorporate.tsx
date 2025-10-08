@@ -462,13 +462,6 @@ const CateringCorporate = () => {
         </div>
       </section>
 
-      {/* Spoluprace Section */}
-      <section className="py-16 lg:py-24 bg-white">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <Spoluprace />
-        </div>
-      </section>
-
       <SectionSeparator />
 
       {/* Occasions Section */}
@@ -596,6 +589,12 @@ const CateringCorporate = () => {
       </section>
 
       {/* Spoluprace Section */}
+      <section className="py-16 lg:py-24 bg-white">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+          <Spoluprace />
+        </div>
+      </section> 
+
       {/* Final CTA */}
       <section className="py-16 lg:py-24 bg-gradient-to-r from-[var(--color-primary)] via-[#2A1F15] to-[var(--color-primary)] relative overflow-hidden">
         <div className="absolute inset-0 opacity-10">
