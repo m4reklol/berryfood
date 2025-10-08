@@ -230,16 +230,16 @@ const Rozvoz = () => {
           </div>
         </section>
 
+        {/* Contact Form Section */}
+        <section className="py-16 lg:py-24 bg-gradient-to-br from-[#F8F5F0] via-white to-[#F5F1EB]">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <ContactForm />
+          </div>
+        </section>
+
         {/* Spolupráce Section */}
         <Spoluprace />
       </div>
-      
-      {/* Contact Form Section */}
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-[#F8F5F0] via-white to-[#F5F1EB]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <ContactForm />
-        </div>
-      </section>
     </>
   );
 };
